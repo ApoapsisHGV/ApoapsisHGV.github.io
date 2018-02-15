@@ -19,12 +19,9 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
+    <div id="container">
+      <div class="wrapper-masthead">
         <header class="masthead clearfix">
-          <div class="header-image">
-            <a href="{{ site.baseurl }}/{% if page.lang == "EN" %}en/{% endif %}" class="header-pic"><img src="{{ site.baseurl }}/images/hgv-banner.jpg" height="300"></a>
-          </div>
           <a href="{{ site.baseurl }}/{% if page.lang == "EN" %}en/{% endif %}" class="site-avatar"><img src="{{ site.baseurl }}/images/favicon.png" /></a>
 
           <div class="site-info">
@@ -49,16 +46,12 @@
           </nav>
         </header>
       </div>
-    </div>
 
-    <div id="main" role="main" class="container">
       {{ content }}
-    </div>
 
-    <div class="wrapper-footer">
-      <div class="container">
+      <div class="wrapper-footer">
         <footer class="footer">
-          {% include svg-icons.html %}
+            {% include svg-icons.html %}
         </footer>
       </div>
     </div>

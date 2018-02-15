@@ -18,20 +18,23 @@ html {
 }
 
 body {
-	background: $white;
+	background: url("/images/nasa-space-background-dimmed.jpg");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
-.container {
-  margin: 0 auto;
+#container {
+  margin: 8rem auto 3rem;
   max-width: 900px;
-  padding: 0 10px;
-  width: 100%;
-}
+  padding: 0 1.5rem;
+	background: $white;
+  width: calc(100% - 4rem);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, .3);
 
-.header-image img{
-  width: 100%;
+  @include mobile {
+    padding: 0 1rem;
+    width: calc(100% - 2rem);
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -119,11 +122,6 @@ img {
   max-width: none;
 }
 
-.date {
-  font-style: italic;
-  color: $gray;
-}
-
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
@@ -150,17 +148,13 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
-//
-// .masthead
-//
-
 .wrapper-masthead {
   margin-bottom: 50px;
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $middleGray;
 
   @include mobile {
     text-align: center;
@@ -241,10 +235,6 @@ nav {
   }
 }
 
-//
-// .main
-//
-
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -307,9 +297,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid $middleGray;
 }
 
 footer {
