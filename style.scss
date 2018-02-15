@@ -258,7 +258,7 @@ nav {
     margin-bottom: 3rem;
   }
 
-  & > span {
+  & > div {
     padding: 0 1rem;
     max-width: 400px;
     font-style: italic;
@@ -268,31 +268,29 @@ nav {
   }
 }
 
-.post {
-  .meta {
-    font-size: 1rem;
-    font-family: monospace;
-    margin-left: 1em;
-    color: $gray;
-  }
+.meta {
+  font-size: 1rem;
+  font-family: monospace;
+  margin-left: 1em;
+  color: $gray;
+}
 
-  blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-  }
+blockquote {
+  margin: 1.8em .8em;
+  border-left: 2px solid $gray;
+  padding: 0.1em 1em;
+  color: $gray;
+  font-size: 22px;
+  font-style: italic;
+}
 
-  .comments {
-    margin-top: 10px;
-  }
+.comments {
+  margin-top: 10px;
+}
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
+.read-more {
+  text-transform: uppercase;
+  font-size: 15px;
 }
 
 .wrapper-footer {
