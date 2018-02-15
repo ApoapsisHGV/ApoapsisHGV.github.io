@@ -255,6 +255,29 @@ nav {
   border-bottom: none;
 }
 
+.page-banner {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+  & > img {
+    max-height: 200px;
+    max-width: 100%;
+    margin-bottom: 3rem;
+  }
+
+  & > span {
+    padding: 0 1rem;
+    max-width: 400px;
+    font-style: italic;
+    font-weight: 100;
+    line-height: 1.7;
+    margin-bottom: 3rem;
+  }
+}
+
 .post {
   .meta {
     font-size: 1rem;
