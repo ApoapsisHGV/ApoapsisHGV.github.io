@@ -184,6 +184,10 @@ img {
   img {
     width: $avatar-size;
     height: $avatar-size;
+
+    &:hover {
+      opacity: .4;
+    }
   }
 }
 
@@ -317,6 +321,13 @@ blockquote {
   text-transform: uppercase;
   font-size: 15px;
   font-weight: $nunito-medium;
+  padding: .6rem;
+  border-radius: 4px;
+
+  &:hover {
+    background: $apoapsis-lightblue;
+    color: $white;
+  }
 }
 
 .wrapper-footer {
