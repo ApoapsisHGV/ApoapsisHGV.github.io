@@ -17,13 +17,13 @@ Das hieß für uns: Plakate zu basteln, Flyer designen, Infostand herrichten.
 Am Tag vor der Veranstaltung bastelten Henrik und Niklas die Plakate zusammen,
 die Felix zuvor bereits am Computer designt hatte:
 
-![Die fertigen Plakate](https://github.com/ApoapsisHGV/ApoapsisHGV.github.io/blob/NiklasC-Blogeintrag-Bilder/images/Osterhase_Die_fertigen_Plakate.jpg "Die fertigen Plakate")
+{% include image.html path="/images/Osterhase_Die_fertigen_Plakate.jpg" caption="Die fertigen Plakate" %}
 
 Außerdem fertigte Niklas dann noch aus der letzten Folie der
 Präsentation ein paar Flyer an, die den Schülern dann noch mitgegeben
 werden konnten.
 
-![Das Design der Flyer](https://github.com/ApoapsisHGV/ApoapsisHGV.github.io/blob/NiklasC-Blogeintrag-Bilder/images/Osterhase_Erstellen_der_Flyer.jpg "Das Erstellen der Flyer")
+{% include image.html path="/images/Osterhase_Erstellen_der_Flyer.jpg" caption="Das Erstellen der Flyer" %}
 
 Schließlich war es soweit: Direkt nach der Physik Klasur, die wir an dem Tag
 noch geschrieben haben, haben wir im Atrium die Pinnwände und Tische aufgestellt
@@ -32,4 +32,4 @@ Während der Veranstaltung haben wir dann auch einen Physiklehrer getroffen,
 der uns angeboten hat, den Fallschirm unseres CanSats mit seiner Drone zu testen.
 Allgemein war der Tag ziemlich erfolgreich.
 
-![Thomas beim Präsentieren](https://github.com/ApoapsisHGV/ApoapsisHGV.github.io/blob/NiklasC-Blogeintrag-Bilder/images/Osterhase_Thomas.jpg "Thomas beim präsentieren")
+{% include image.html path="/images/Osterhase_Thomas.jpg" caption="Thomas beim Präsentieren" %}

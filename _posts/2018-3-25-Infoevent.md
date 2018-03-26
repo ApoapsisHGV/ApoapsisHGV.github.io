@@ -16,12 +16,12 @@ That meant for us: Making posters, designing flyers, preparing the information s
 The day before the event Henrik and Niklas put together the posters which
 Felix had previously designed on the computer:
 
-![The finished posters](https://github.com/ApoapsisHGV/ApoapsisHGV.github.io/blob/NiklasC-Blogeintrag-Bilder/images/Osterhase_Die_fertig_Plakate.jpg "The finished posters")
+{% include image.html path="/images/Osterhase_Die_fertigen_Plakate.jpg" caption="The finished posters" %}
 
 In addition to that, Niklas then made flyer from the last slide of the
 presentation which have been given to the students.
 
-![The Flyer Design](https://github.com/ApoapsisHGV/ApoapsisHGV.github.io/blob/NiklasC-Blogeintrag-Bilder/images/Osterhase_Erstellen_der_Flyer.jpg "Creating the Flyers")
+{% include image.html path="/images/Osterhase_Erstellen_der_Flyer.jpg" caption="Creating the flyers" %}
 
 Finally the event came: right after our physics exam we wrote on the day,
 we arranged the tables and posters in the school hall
@@ -30,4 +30,4 @@ During the event we also met a physics teacher
 who offered us to test the parachute of our CanSat with his drone.
 Generally, the day was quite successful.
 
-![Thomas Presenting](https://github.com/ApoapsisHGV/ApoapsisHGV.github.io/blob/NiklasC-Blogeintrag-Bilder/images/Osterhase_Thomas.jpg "Thomas Presenting")
+{% include image.html path="/images/Osterhase_Thomas.jpg" caption="Thomas presenting" %}
