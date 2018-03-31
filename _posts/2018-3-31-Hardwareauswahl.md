@@ -40,7 +40,7 @@ Preis: ca. 4,75€ pro Arduino nano
 
 ### SD Kartenleser + SD Karte
 Wir waren uns nicht sicher, ob wir wirklich einen Kartenleser brauchten. Aber was wäre, wenn die Funkkommunikation versagt und
-wir keine Daten empfangen? Das waren uns die 4 gramm bzw. 6,10€ doch wert. Wir verwenden den [MicroSD card breakout](https://www.adafruit.com/product/254)
+wir keine Daten empfangen? Das waren uns die 4g bzw. 6,10€ doch wert. Wir verwenden den [MicroSD card breakout](https://www.adafruit.com/product/254)
 von Adafruit. Der ist einfach zu verwenden und funktioniert zuverlässig (wenn man ihn richtig ansteuert).
 Preis: 6,10€ (+ 8,90€ für SD Karte)
 
