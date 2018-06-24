@@ -369,6 +369,9 @@ blockquote {
   img {
     margin: 1em;
     max-height: 150px;
+  }
+
+  a, img {
     flex-shrink: 0;
   }
 
