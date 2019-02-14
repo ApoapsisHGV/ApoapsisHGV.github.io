@@ -8,6 +8,17 @@ ref: cansat2018
 
 At [ESA's German CanSat competition of 2018](https://www.cansat.de/wettbewerb-2018), we achieved the 4th place. Here you can find all the information about Apoapsis' first participation.
 
+<div class="toc">
+  <h4>Table of contents</h4>
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#about-us">About us</a></li>
+    <li><a href="#the-team">The team</a></li>
+    <li><a href="#sponsors">Sponsors</a></li>
+    <li><a href="#blog-posts-2018">Blog posts (2018)</a></li>
+  </ul>
+</div>
+
 ## Overview
 
 <div class="page-banner">
@@ -25,7 +36,7 @@ We are the team Apoapsis from Vaterstetten. Our group consists of Niklas Cölle,
 
 We were inspired by the project [luftdaten.info](http://luftdaten.info) of the OK Lab Stuttgart, which collects the measurements of public accessible fine dust sensors in real time and displays them on a public available map.
 
-## The Team
+## The team
 
 <div class="page-banner">
   <img src="{{ site.baseurl }}/images/hgv-425x250.jpg" />
