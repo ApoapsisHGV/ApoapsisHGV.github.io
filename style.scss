@@ -92,7 +92,7 @@ a:link, a:visited {
     color: $apoapsis-lightblue;
   }
 
-  img {
+  img, .svg-icon {
     &:hover {
       opacity: .4;
     }
@@ -166,13 +166,10 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $divider-black;
+  margin-bottom: 20px;
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -417,10 +414,13 @@ a.read-more {
 
 footer {
   padding: 20px 0;
+}
+
+.social-media-icons {
   text-align: center;
 }
 
-.social-media-icons img {
+.social-media-icons .svg-icon {
   border-radius: 50%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, .4);
 }
