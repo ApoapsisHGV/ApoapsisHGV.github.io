@@ -23,7 +23,7 @@ ref: team
 
 <section class="team-member-presentation" id="henrik">
   <img src="{{ site.baseurl }}/images/2019-team-members/henrik.jpg" />
-  <span>„Ich bin <strong>Henrik Böving</strong> und einer der Programmierer unseres Teams. Als Hobby-Entwickler und Python-Fan bin ich verantwortlich für die Programmierung des CanSats, der dazugehörigen Bodenstation und für die Auswertung der Daten.“</span>
+  <span>„Ich bin <strong>Henrik Böving</strong> und einer der Programmierer unseres Teams. Als Hobby-Entwickler bin ich verantwortlich für die Programmierung des CanSats, der dazugehörigen Bodenstation und für die Auswertung der Daten.“</span>
 </section>
 
 <section class="team-member-presentation" id="felix">

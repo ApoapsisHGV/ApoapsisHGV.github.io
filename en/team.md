@@ -23,7 +23,7 @@ ref: team
 
 <section class="team-member-presentation" id="henrik">
   <img src="{{ site.baseurl }}/images/2019-team-members/henrik.jpg" />
-  <span>“I'm <strong>Henrik Böving</strong>, one of our team's coders. As a developer and a python fan, I'm responsible for programming the CanSat and the ground station as well as for the evaluation of the collected data.”</span>
+  <span>“I'm <strong>Henrik Böving</strong>, one of our team's coders. As a hobby developer, I'm responsible for programming the CanSat and the ground station as well as for the evaluation of the collected data.”</span>
 </section>
 
 <section class="team-member-presentation" id="felix">
