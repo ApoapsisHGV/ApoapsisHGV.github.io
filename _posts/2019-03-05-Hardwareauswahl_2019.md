@@ -4,7 +4,7 @@ title: Neue Teilnahme, Neue Sekundärmission, Neue Hardware!
 lang: DE
 ref: Hardwareauswahl_2019
 categories: [cansat2019]
-teaserImage: /images/posts/2019-01-28_CanSat2018.jpg
+teaserImage: /images/posts/2019-03-06_Blockdiagram.jpg
 ---
 
 
