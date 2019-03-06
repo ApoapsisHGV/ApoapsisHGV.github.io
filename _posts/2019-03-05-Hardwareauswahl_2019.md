@@ -2,7 +2,7 @@
 layout: post
 title: Neue Teilnahme, Neue Sekundärmission, Neue Hardware!
 lang: DE
-ref: Hardwareauswahl_2019
+ref: Hardwareauswahl2019
 categories: [cansat2019]
 teaserImage: /images/posts/2019-03-06_Blockdiagram.jpg
 ---
@@ -51,7 +51,7 @@ Zum Übertragen der Telemetriedaten verwenden wir das Funkmodul [RFM69HCW](https
 
 ### Speicher
 
-Da unser Prozessor direkte SDMMC-Unterstützung hat, können wir unsere Bilder und Messdaten direkt auf eine SD-Karte schreiben. Da wir allerdings letztes Jahr schlechte Erfahrung mit SD-Karten gemacht haben, haben wir uns entschieden, zusätzlich einen externen EEPROM (Electrically Eraseable Programmable Read-Only Memory) anzuschließen. Der [M24M01](https://www.st.com/resource/en/datasheet/m24m01-r.pdf) von STMicroelectronics bietet mit einem MBit zwar keinen Speicherplatz für unsere Bilder, dafür können wir unsere wichtigsten Messdaten (vor allem für die Primärmission) aber dort zusätzlich abspeichern. Der Chip nimmt im CanSat kaum Platz weg und wird (wie so vieles anderes) über I²C angesteuert.
+Da unser Prozessor direkte SDMMC-Unterstützung hat, können wir unsere Bilder und Messdaten direkt auf eine SD-Karte schreiben. Da wir allerdings letztes Jahr schlechte Erfahrung mit SD-Karten gemacht haben, haben wir uns entschieden, zusätzlich einen externen EEPROM (Electrically Eraseable Programmable Read-Only Memory) anzuschließen: Der [M24M01](https://www.st.com/resource/en/datasheet/m24m01-r.pdf) von STMicroelectronics bietet mit einem MBit zwar keinen Speicherplatz für unsere Bilder, dafür können wir unsere wichtigsten Messdaten (vor allem für die Primärmission) aber dort zusätzlich abspeichern. Der Chip nimmt im CanSat kaum Platz weg und wird (wie so vieles anderes) über I²C angesteuert.
 
 ## Stromversorgung
 
