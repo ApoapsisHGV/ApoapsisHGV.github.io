@@ -13,7 +13,7 @@ Our social media followers and [blog post](/Hardware-selection_2019/#processor) 
 
 {% include post-figure.html path="/images/posts/2019-04-11_STM-unpacked.jpg" alignment="right" image_size="small" %}
 
-We've chosen the STM32H743ZI not only because of its catchy name, but also because of its outstanding performance. The processor is based on the [ARM Cortex M7](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m7) und is far more powerful than last year's [Arduino Nano](https://store.arduino.cc/arduino-nano): With 400&nbsp;MHz (25 times faster) and 1&nbsp;MByte RAM (500 times more), it will be easy to record multiple measurements and images simultaneously.
+We've chosen the STM32H743ZI not only because of its catchy name, but also because of its outstanding performance. The processor is based on the [ARM Cortex M7](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m7) und is far more powerful than an [Arduino Nano](https://store.arduino.cc/arduino-nano): With 400&nbsp;MHz (25 times faster) and 1&nbsp;MByte RAM (500 times more), it will be easy to record multiple measurements and images simultaneously.
 
 ## No need for C!
 
