@@ -4,7 +4,7 @@ title: Embedded-Programmierung mit dem STM32
 lang: DE
 ref: Embedded
 categories: [cansat2019]
-teaserImage: /images/posts/2019-04-11_STM-unpacked.jpg
+teaserImage: /images/posts/2019-04-12_STM-unpacked.jpg
 ---
 
 Wer unsere Social-Media-Kanäle und unsere [Blogposts](/Hardwareauswahl_2019/#prozessor) aufmerksam verfolgt, weiß, dass wir den [STM32H743ZI](https://www.st.com/resource/en/datasheet/stm32h743zi.pdf) von STMicroelectronics als Prozessor hernehmen möchten. Wie das genau aussehen soll, werden wir euch in diesem Blogpost erklären.
