@@ -11,7 +11,7 @@ Wer unsere Social-Media-Kanäle und unsere [Blogposts](/Hardwareauswahl_2019/#pr
 
 ## Der Chip
 
-{% include post-figure.html path="/images/posts/2019-04-11_STM-unpacked.jpg" alignment="right" image_size="small" %}
+{% include post-figure.html path="/images/posts/2019-04-12_STM-unpacked.jpg" alignment="right" image_size="small" %}
 
 Den STM32H743ZI haben wir uns nicht nur wegen seines leicht einprägsamen Namens ausgesucht, sondern vor allem aufgrund seiner herausragenden Performance. Der Prozessor basiert auf dem [ARM Cortex M7](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m7) und ist einem [Arduino Nano](https://store.arduino.cc/arduino-nano) weit überlegen: Mit 400&nbsp;MHz (25 mal schneller) und 1&nbsp;MByte RAM (500 mal mehr) wird es ein Leichtes sein, mehrere Messdaten sowie die Bilder gleichzeitig aufzuzeichnen.
 
@@ -31,7 +31,7 @@ Zudem benötigen wir für die Sensoren und weiteren Komponenten, die wir mit dem
 
 Sobald wir das alles mithilfe der Spezifikationen, Datenblätter und Handbücher des Chips und der Sensoren erledigt haben, können wir mit diesen arbeiten und das eigentliche CanSat-Programm zum Sammeln und Speichern unserer Daten schreiben.
 
-{% include post-figure.html path="/images/posts/2019-04-11_STM-testing.jpg" alignment="center" image_size="big" caption="Unser Testaufbau des STM-Development-Boards mit einigen Sensoren." %}
+{% include post-figure.html path="/images/posts/2019-04-12_STM-testing.jpg" alignment="center" image_size="big" caption="Unser Testaufbau des STM-Development-Boards mit einigen Sensoren." %}
 
 Eine Schwierigkeit ist allerdings noch, wie wir unser Programm auf den STM flashen werden. Denn da gibt es noch recht wenig Support aus der Open-Source-Community. Mit dem offiziellen Werkzeug-Bundle [STM32Cube](https://www.st.com/en/ecosystems/stm32cube.html) können wir zwar flashen, jedoch nicht über das Command-Line-Interface (CLI) debuggen. Dies könnte jedoch mit einer Development-Version von [OpenOCD](http://openocd.org/) klappen, welche dem [GNU Project Debugger (GDB)](https://www.gnu.org/software/gdb/) das Debuggen ermöglichen könnte.
 

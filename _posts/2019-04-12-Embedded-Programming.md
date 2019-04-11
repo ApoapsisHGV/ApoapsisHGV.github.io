@@ -11,7 +11,7 @@ Our social media followers and [blog post](/Hardware-selection_2019/#processor) 
 
 ## The chip
 
-{% include post-figure.html path="/images/posts/2019-04-11_STM-unpacked.jpg" alignment="right" image_size="small" %}
+{% include post-figure.html path="/images/posts/2019-04-12_STM-unpacked.jpg" alignment="right" image_size="small" %}
 
 We've chosen the STM32H743ZI not only because of its catchy name, but also because of its outstanding performance. The processor is based on the [ARM Cortex M7](https://developer.arm.com/ip-products/processors/cortex-m/cortex-m7) und is far more powerful than an [Arduino Nano](https://store.arduino.cc/arduino-nano): With 400&nbsp;MHz (25 times faster) and 1&nbsp;MByte RAM (500 times more), it will be easy to record multiple measurements and images simultaneously.
 
@@ -31,7 +31,7 @@ Furthermore, we need drivers for all sensors and components that we want to cont
 
 We have to read the specifications, data sheets and manuals of the chip and the sensors carefully in order to create an HAL we can work with. As soon as this is finished, we can start writing our CanSat program to collect and store our data.
 
-{% include post-figure.html path="/images/posts/2019-04-11_STM-testing.jpg" alignment="center" image_size="big" caption="Test installation of the STM32 development board, along with some sensors." %}
+{% include post-figure.html path="/images/posts/2019-04-12_STM-testing.jpg" alignment="center" image_size="big" caption="Test installation of the STM32 development board, along with some sensors." %}
 
 One difficulty we have to cope with is how to flash our program onto the STM as the support from the open source community is relatively low here. There's the [STM32Cube](https://www.st.com/en/ecosystems/stm32cube.html) tool chain by STMicroelectronics to flash the chip, but there's no possibility to debug the chip using the command line interface (CLI). Maybe that could work with a development version of [OpenOCD](http://openocd.org/), which could make it possible for the [GNU Project Debugger (GDB)](https://www.gnu.org/software/gdb/) to debug the chip.
 
