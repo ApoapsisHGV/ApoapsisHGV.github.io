@@ -31,7 +31,7 @@ ref: team
   <figure>
     <img src="{{ site.baseurl }}/images/2019-team-members/henrik.jpg" />
   </figure>
-  <span>„Ich bin <strong>Henrik Böving</strong> und einer der Programmierer unseres Teams. Als Hobby-Entwickler bin ich verantwortlich für die Programmierung des CanSats, der dazugehörigen Bodenstation und für die Auswertung der Daten.“</span>
+  <span>Spitzensparken Blinkelichtzen - <strong>Henrik Böving</strong></span>
 </section>
 
 <section class="team-member-presentation side-figure" id="felix">
