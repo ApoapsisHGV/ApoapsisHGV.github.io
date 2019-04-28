@@ -9,9 +9,9 @@ teaserImage: /images/posts/2019-04-28_ATTiny-Testing.jpg
 
 Compared to last year's CanSat, our hardware and software planning has become much more demanding and complex for us – and thus more error-prone. We cannot protect ourselves against every source of error, and it is therefore good to have a backup for all cases.
 
-{% include post-figure.html path="/images/posts/2019-04-28_STM-vs-ATTiny.jpg" alignment="right" image_size="medium" caption="That small (or tiny ...) is our backup ATTiny compared to the STM32 development board, which we'll use for our main system." %}
-
 For example, a single wrong-wired PCB trace could literally blow up the processor, a wrongly written memory address could stop the entire program, or the SD card could fall out of its holder due to the vibrations during launch. A backup system that is protected against such cases must be completely separate from the main system and build as robust as possible. In addition, it must be able to fulfil the primary mission on its own – i.e. like an independent CanSat (only without secondary mission)!
+
+{% include post-figure.html path="/images/posts/2019-04-28_STM-vs-ATTiny.jpg" alignment="right" image_size="medium" caption="That small (or tiny ...) is our backup ATTiny compared to the STM32 development board, which we'll use for our main system." %}
 
 All we need is a microcontroller together with a small memory module that reads its own thermometer and barometer and uses as little power as possible to be completely integrated into the CanSat. Sounds like a task for the ATTiny85!
 
