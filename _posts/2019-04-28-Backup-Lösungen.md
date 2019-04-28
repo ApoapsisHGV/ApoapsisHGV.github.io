@@ -11,7 +11,7 @@ Im Vergleich zu unserem letztjährigem CanSat ist unsere geplante Hard- und Soft
 
 Beispielsweise könnte eine einzelne verkehrt platzierte Leiterspur wortwörtlich den Prozessor grillen, eine falsch beschriebene Speicheradresse das gesamte Programm zum Stoppen bringen oder durch die Vibrationen beim Start die SD-Karte aus der Halterung fallen. Ein Backup-System, das gegen solche Fälle abgesichert ist, muss völlig separat vom Hauptsystem arbeiten und so robust wie möglich sein. Außerdem muss es selbstständig die Primärmission erfüllen können – also wie ein eigenständiger CanSat (nur ohne Sekundärmission)!
 
-{% include post-figure.html path="/images/posts/2019-04-28_STM-vs-ATTiny.jpg" alignment="right" image_size="medium" caption="So klein ist unser Backup-ATTiny im Vergleich zum Development-Board des STM32, den wir für unsere Hauptmission verwenden." %}
+{% include post-figure.html path="/images/posts/2019-04-28_STM-vs-ATTiny.jpg" alignment="right" image_size="medium" caption="So klein ist unser Backup-ATTiny im Vergleich zum Development-Board des STM32, den wir für unsere Hauptsystem verwenden." %}
 
 Alles was wir dafür brauchen ist einen Mikrocontroller zusammen mit einem kleinen Speichermodul, der ein eigenes Thermometer und Barometer ausliest und so wenig Strom wie möglich verbraucht, um komplett in den CanSat integriert zu werden. Klingt nach einer Aufgabe für den ATTiny85!
 
