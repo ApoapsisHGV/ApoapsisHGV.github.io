@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two in one - CanSat Version!
+title: Two CanSats in one!
 lang: EN
 ref: BackupCanSat
 categories: [cansat2019]
