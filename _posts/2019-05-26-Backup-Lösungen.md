@@ -2,18 +2,17 @@
 layout: post
 title: Zwei CanSats in einem!
 lang: DE
-ref: Backup_Lösung
+ref: BackupCanSat
 categories: [cansat2019]
 teaserImage: 
 ---
 
-Vieles was wir für unseren CanSat an Soft- und Hardware entwickeln ist für uns im Vergleich zum CanSat den wir letztes Jahr gebaut haben auf einem für uns völlig neuem Level. Das bedeutet auch, dass es mehr unentdeckte Fehlerquellen geben kann: Beispielsweise könnte eine einzelne falsch gelegte Leiterspur wortwörtlich den Prozessor grillen, eine falsch beschriebene Speicheradresse das gesamte Programm zum Stop bringen oder durch die Vibrationen beim Start die SD Karte aus der Halterung fallen. Es gibt viele Wege, in denen was schiefgehen kann, und wir können uns nicht auf jedes einzelne Ereignis vorbereiten.
+Im Vergleich zu unserem letztjährigem CanSat ist unsere geplante Hard- und Software für uns deutlich anspruchsvoller und komplexer geworden – und damit auch fehleranfälliger. Wir können uns nicht gegen jede Fehlerquelle absichern, und daher ist es gut, für alle Fälle ein Backup zu haben. 
 
-Für solche Fälle ist es gut ein Backup zu haben. Es muss völlig separat vom Hauptsystem arbeiten und so robust wie möglich sein. Außerdem muss es die missionskritischsten Aufgaben nebenher erfüllen können - in diesem Fall die Primärmission. 
-Also brauchen wir einen Mikrocontroller zusammen mit einem kleinen Speichermodul, der einen eigenes Thermometer und Barometer ausliest und so wenig Strom wie möglich verbraucht, um komplett in den CanSat integriert zu werden. 
-Das klingt nach einer Aufgabe für den ATTiny85!
+Beispielsweise könnte eine einzelne verkehrt platzierte Leiterspur wortwörtlich den Prozessor grillen, eine falsch beschriebene Speicheradresse das gesamte Programm zum Stoppen bringen oder durch die Vibrationen beim Start die SD-Karte aus der Halterung fallen. Ein Backup-System, das gegen solche Fälle abgesichert ist, muss völlig separat vom Hauptsystem arbeiten und so robust wie möglich sein. Außerdem muss es selbstständig die Primärmission erfüllen können – also wie ein eigenständiger CanSat (nur ohne Sekundärmission)!
 
-Der ATTiny85 ist ein sehr kleiner Mikrocontroller von Microchip mit gerade mal 5 I/O Pins (plus Reset Pin), 8 KB Programmspeicher und 512 Arbeitsspeicher. Das ist zwar nicht viel, aber durchaus ausreichend für unsere Anwendung.
-Zum Messen der Temperatur und des Luftdrucks verwenden wir einen BMP280 - ein sehr kleiner und stromsparender Sensor von Bosch. Dieser wird über I2C angesteuert. Die Messdaten werden als Datensätze von 8 Byte (Temperatur- und Luftdruckmessung zusammengenommen) auf einen M24M02 EEPROM von STMicroelectronics geschrieben. Dieser bietet mit 2 MB genug Speicherplatz für 31.250 Messungen, was bei einer Laufzeit von einer Stunde circa 8 Messungen die Sekunde entspricht.
+Alles was wir dafür brauchen, ist einen Mikrocontroller zusammen mit einem kleinen Speichermodul, der einen eigenes Thermometer und Barometer ausliest und so wenig Strom wie möglich verbraucht, um komplett in den CanSat integriert zu werden. Klingt nach einer Aufgabe für den ATTiny85!
 
-Auch das Backupsystem muss laut Designvorschriften eine Laufzeit von mindestens 4 Stunden haben muss. Addiert man den Stromverbrauch der einzelnen Komponenten unter unseren Bedingungen und setzt noch eine Fehlertoleranz drauf kommen wir auf einen Stromverbrauch von gerade mal 7 mA. Eine typische 12 mm Lithiumknopfzelle hat eine durchschnittliche Kapazität von 35 mAh, was bei unserem Setup für mehr als 5 Stunden ausreicht. 
+Der [ATTiny85](https://www.microchip.com/wwwproducts/en/ATtiny85) ist ein sehr kleiner Mikrocontroller von Microchip mit gerade mal fünf I/O-Pins (plus Reset-Pin), 8 KB Programmspeicher und 512 Byte Arbeitsspeicher. Das ist zwar nicht viel, aber durchaus ausreichend für unsere Anwendung. Zum Messen der Temperatur und des Luftdrucks verwenden wir den BMP280, einen kleinen und stromsparenden Sensor von Bosch. Dieser wird über I²C angesteuert. Die Messdaten werden als Datensätze von 8 Byte (Temperatur- und Luftdruckmessung zusammengenommen) auf einen M24M02 EEPROM von STMicroelectronics geschrieben. Dieser bietet mit 2 MB genug Speicherplatz für 31.250 Messungen, was bei einer Laufzeit von einer Stunde circa 8 Messungen pro Sekunde entspricht.
+
+Auch das Backupsystem muss laut Designvorschriften eine Laufzeit von mindestens 4 Stunden erfüllen. Als Gesamtstromverbrauch der einzelnen Komponenten inklusive Fehlertoleranz rechnen wir mit 7 mA. Eine typische 12 mm Lithiumknopfzelle hat eine durchschnittliche Kapazität von 35 mAh, was bei unserem Setup für mehr als 5 Stunden ausreicht.
