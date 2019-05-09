@@ -25,7 +25,7 @@ ref: sponsoren
 </section>
 
 <section class="side-figure" id="jlcpcb">
-  <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> ist ein führender Leiterplatten-Hersteller für Anwendungen unterschiedlichster Art. Sie unterstützen indem Sie unsere Platinen herstellen.</span>
+  <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> ist ein führender Leiterplatten-Hersteller für Anwendungen unterschiedlichster Art. Sie unterstützen uns indem Sie unsere Platinen herstellen.</span>
   <figure>
     <a href="https://jlcpcb.com">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/JLCPCB.png" />
