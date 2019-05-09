@@ -16,7 +16,7 @@ ref: sponsoren
 </section>
 
 <section class="side-figure" id="teleorbit">
-  <span>The company <a href="https://teleorbit.eu/en/"><strong>TeleOrbit</strong></a>, which acts in the GNSS and mobile positioning technology, has financially supported us. Latest news can be found on Twitter: <a href="https://twitter.com/teleorbitgmbh">@teleorbitgmbh</a></span>
+  <span>The company <a href="https://teleorbit.eu/en/"><strong>TeleOrbit</strong></a>, which develops and sells GNSS and mobile positioning products, has financially supported us. Latest news can be found on Twitter: <a href="https://twitter.com/teleorbitgmbh">@teleorbitgmbh</a></span>
   <figure>
     <a href="https://teleorbit.eu/en/">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/TeleOrbit.jpg" />

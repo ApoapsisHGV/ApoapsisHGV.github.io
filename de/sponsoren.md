@@ -16,7 +16,7 @@ ref: sponsoren
 </section>
 
 <section class="side-figure" id="teleorbit">
-  <span>Mit einer Geldspende hat uns das Unternehmen <a href="https://teleorbit.eu/de/"><strong>TeleOrbit</strong></a> unterstützt. Die TeleOrbit GmbH entwickelt und vermarktet SatNav bzw. GNSS Technologieprodukte. Aktuelle Infos findet ihr auch auf Twitter: <a href="https://twitter.com/teleorbitgmbh">@teleorbitgmbh</a></span>
+  <span>Mit einer Geldspende hat uns das Unternehmen <a href="https://teleorbit.eu/de/"><strong>TeleOrbit</strong></a> unterstützt. Die TeleOrbit GmbH entwickelt und vermarktet SatNav- bzw. GNSS-Technologieprodukte. Aktuelle Infos findet ihr auch auf Twitter: <a href="https://twitter.com/teleorbitgmbh">@teleorbitgmbh</a></span>
   <figure>
     <a href="https://teleorbit.eu/de/">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/TeleOrbit.jpg" />
