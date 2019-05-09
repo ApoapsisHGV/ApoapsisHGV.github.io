@@ -24,6 +24,15 @@ ref: sponsoren
   </figure>
 </section>
 
+<section class="side-figure" id="jlcpcb">
+  <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> is a leading Chinese PCB manufacturer for hobbist, commercial and industrial applications. They support us by providing us with our circuit boards.</span>
+  <figure>
+    <a href="https://jlcpcb.com">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/JLCPCB.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="watterott">
   <span>The electronics distributor <a href="https://www.watterott.com/"><strong>Watterott</strong></a> supplied all CanSat teams with some construction components. We thankfully accepted their offer and received some sensors from them.</span>
   <figure>
