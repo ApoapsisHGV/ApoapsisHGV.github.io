@@ -24,6 +24,15 @@ ref: sponsoren
   </figure>
 </section>
 
+<section class="side-figure" id="jlcpcb">
+  <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> ist ein führender Leiterplatten-Hersteller für Anwendungen unterschiedlichster Art. Sie unterstützen indem Sie unsere Platinen herstellen.</span>
+  <figure>
+    <a href="https://jlcpcb.com">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/JLCPCB.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="watterott">
   <span>Der Elektronikversand <a href="https://www.watterott.com/"><strong>Watterott</strong></a> hat allen CanSat-Teams einige Bauteile kostenlos bereitgestellt. Wir haben ihr Angebot dankbar angenommen und diverse Sensoren von ihnen erhalten.</span>
   <figure>
