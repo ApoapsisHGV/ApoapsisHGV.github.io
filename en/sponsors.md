@@ -25,7 +25,7 @@ ref: sponsoren
 </section>
 
 <section class="side-figure" id="jlcpcb">
-  <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> is a leading Chinese PCB manufacturer for hobbist, commercial and industrial applications. They support us by providing us with our circuit boards.</span>
+  <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> is a leading Chinese PCB manufacturer for hobbyist, commercial and industrial applications. They support us by providing us with our circuit boards.</span>
   <figure>
     <a href="https://jlcpcb.com">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/JLCPCB.png" />
