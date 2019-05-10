@@ -7,7 +7,7 @@ ref: sponsoren
 ---
 
 <section class="side-figure" id="mbda">
-  <span><a href="https://www.mbda-systems.com"><strong>MBDA</strong></a> ist ein europäisches Rüstungsunternehmen, das Raketensysteme für alle Bereiche der Streitkräfte entwickelt und produziert. Sie unterstützen uns nicht nur finanziell, sondern geben uns auch die Möglichkeit, ihre Testeinrichtungen für unseren CanSat zu nutzen.</span>
+  <span><a href="https://www.mbda-systems.com"><strong>MBDA Deutschland</strong></a> ist ein europäisches Rüstungsunternehmen, das Raketensysteme für alle Bereiche der Streitkräfte entwickelt und produziert. Sie unterstützen uns nicht nur finanziell, sondern geben uns auch die Möglichkeit, ihre Testeinrichtungen für unseren CanSat zu nutzen.</span>
   <figure>
     <a href="https://www.mbda-systems.com">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/MBDA.png" />
