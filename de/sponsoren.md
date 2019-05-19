@@ -6,6 +6,15 @@ title: Sponsoren
 ref: sponsoren
 ---
 
+<section class="side-figure" id="mbda">
+  <span><a href="https://www.mbda-systems.com"><strong>MBDA Deutschland</strong></a> ist ein europäisches Rüstungsunternehmen, das Raketensysteme für alle Bereiche der Streitkräfte entwickelt und produziert. Sie unterstützen uns nicht nur finanziell, sondern geben uns auch die Möglichkeit, ihre Testeinrichtungen für unseren CanSat zu nutzen.</span>
+  <figure>
+    <a href="https://www.mbda-systems.com">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/MBDA.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="knitter-switch">
   <span>Die in Baldham ansässige Firma <a href="https://www.knitter-switch.com/eng"><strong>knitter-switch</strong></a>, welche in der Schaltertechnologie tätig ist, hat unser Projekt freundlicherweise durch eine Geldspende unterstützt.</span>
   <figure>
