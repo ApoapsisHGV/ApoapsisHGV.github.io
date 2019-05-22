@@ -16,7 +16,7 @@ ref: sponsoren
 </section>
 
 <section class="side-figure" id="geosystems">
-  <span>Die <a href="https://www.geosystems.de"><strong>GEOSYSTEMS GmbH</strong></a> entwickelt Software für Geo-IT-Anwendungen. Sie bietet eine breite Palette von Dienstleistungen und Produkten, einschließlich automatischer UAV-Datenverarbeitung, Satellitenbildanalyse, satellitenbasierte Verkehrserkennung und mehr. Neben ihrer finanziellen Unterstützung helfen sie uns auch bei der Entwicklung der Software für unsere Sekundärmission.</span>
+  <span>Die <a href="https://www.geosystems.de"><strong>GEOSYSTEMS GmbH</strong></a> ist Softwarevertriebspartner und Lösungsentwickler für Geo-IT-Anwendungen. Das Unternehmen bietet Software und Services im Bereich Fernerkundung, GIS, Photogrammetrie und Geodatenmanagement. Unter anderem sind ein automatisierter Workflow für die photogrammetrische UAV-Datenverarbeitung sowie Software für die Auswertung von Luft- und Satellitenbildern Bestandteil des Portfolios. Neben ihrer finanziellen Unterstützung hilft GEOSYSTEMS uns bei der Entwicklung der Software für unsere Sekundärmission.</span>
   <figure>
     <a href="https://www.geosystems.de">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/GEOSYSTEMS.png" />
