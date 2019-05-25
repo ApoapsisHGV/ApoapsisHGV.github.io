@@ -15,8 +15,17 @@ ref: sponsoren
   </figure>
 </section>
 
+<section class="side-figure" id="geosystems">
+  <span>The <a href="https://www.geosystems.de"><strong>GEOSYSTEMS GmbH</strong></a> offers software and solutions for Geo-IT applications. They provide a wide range of software and services for remote sensing, GIS, photogrammetry and spatial data management. Among others, an automatic workflow for UAV data processing as well as software for 3D analysis of satellite and aerial images are part of their portfolio. In addition to supporting us financially they also help us developing the software for our secondary mission.</span>
+  <figure>
+    <a href="https://www.geosystems.de">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/GEOSYSTEMS.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="knitter-switch">
-  <span>The firm <a href="https://www.knitter-switch.com/ger"><strong>knitter-switch</strong></a>, which operates in the switch technology and is located in Baldham, has kindly supported us with a monetary donation.</span>
+  <span>The company <a href="https://www.knitter-switch.com/ger"><strong>knitter-switch</strong></a>, which operates in the switch technology and is located in Baldham, has kindly supported us with a monetary donation.</span>
   <figure>
     <a href="https://www.knitter-switch.com/eng">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/Knitter-Switch.jpg" />

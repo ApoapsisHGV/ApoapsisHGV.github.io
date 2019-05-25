@@ -15,6 +15,15 @@ ref: sponsoren
   </figure>
 </section>
 
+<section class="side-figure" id="geosystems">
+  <span>Die <a href="https://www.geosystems.de"><strong>GEOSYSTEMS GmbH</strong></a> ist Softwarevertriebspartner und Lösungsentwickler für Geo-IT-Anwendungen. Das Unternehmen bietet Software und Services im Bereich Fernerkundung, GIS, Photogrammetrie und Geodatenmanagement. Unter anderem sind ein automatisierter Workflow für die photogrammetrische UAV-Datenverarbeitung sowie Software für die Auswertung von Luft- und Satellitenbildern Bestandteil des Portfolios. Neben ihrer finanziellen Unterstützung hilft GEOSYSTEMS uns bei der Entwicklung der Software für unsere Sekundärmission.</span>
+  <figure>
+    <a href="https://www.geosystems.de">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/GEOSYSTEMS.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="knitter-switch">
   <span>Die in Baldham ansässige Firma <a href="https://www.knitter-switch.com/eng"><strong>knitter-switch</strong></a>, welche in der Schaltertechnologie tätig ist, hat unser Projekt freundlicherweise durch eine Geldspende unterstützt.</span>
   <figure>
