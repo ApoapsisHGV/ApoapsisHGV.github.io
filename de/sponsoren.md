@@ -52,7 +52,9 @@ ref: sponsoren
 </section>
 
 <section class="side-figure" id="lcsc">
-  <span><a href="https://lcsc.com"><strong>LCSC</strong></a> ist ein Distributor für verschiedenste elektronische Komponenten zu günstigen Preisen. Von SMD-Widerständen über Mikrocontroller bis hin zu Funkmodulen findet man hier alles. LCSC unterstützt uns beim Einkauf der verschiedenen elektronischen Komponenten für unseren CanSat.</span>
+  <span><a href="https://lcsc.com"><strong>LCSC</strong></a> ist ein Distributor für verschiedenste elektronische Komponenten zu günstigen Preisen. Von SMD-Widerständen über Mikrocontroller bis hin zu Funkmodulen findet man hier alles. LCSC unterstützt uns beim Einkauf der verschiedenen elektronischen Komponenten für unseren CanSat.
+  Nutze einen 8$ Startercoupon auf deine erste Bestellung bei <a href="https://lcsc.com"><strong>LCSC.com</strong></a>
+  </span>
   <figure>
     <a href="https://lcsc.com">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/LCSC.png" />
