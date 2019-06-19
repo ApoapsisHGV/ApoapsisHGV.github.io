@@ -43,7 +43,7 @@ ref: sponsoren
 </section>
 
 <section class="side-figure" id="techmatrix">
-  <span>The company <a href="https://www.techmatrix.de/"><strong>Techmatrix Consulting GmbH</strong></a> from Neufarn supported our project with a donation.</span>
+  <span>The company <a href="https://www.techmatrix.de/"><strong>Techmatrix Consulting GmbH</strong></a> from Neufarn supported our project with a donation, like they already did in our last year's participation.</span>
   <figure>
     <a href="https://www.techmatrix.de/">
       <img src="{{ site.baseurl }}/images/2018-sponsoren/Techmatrix_CMYK.png" />
