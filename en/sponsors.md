@@ -57,7 +57,7 @@ ref: sponsoren
   </span>
   <figure>
     <a href="https://lcsc.com">
-      <img src="{{ site.baseurl }}/images/2019-sponsors/LCSC.png" />
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/LCSC.png" />
     </a>
   </figure>
 </section>
