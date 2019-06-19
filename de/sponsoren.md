@@ -43,7 +43,7 @@ ref: sponsoren
 </section>
 
 <section class="side-figure" id="techmatrix">
-  <span>Schon letztes Jahr zu unseren Sponsoren gehörend, hat uns das Unternehmen <a href="https://www.techmatrix.de/"><strong>Techmatrix Consulting GmbH</strong></a> aus Neufarn abermals durch eine Geldspende unterstützt.</span>
+  <span>Schon letztes Jahr zu unseren Sponsoren gehörend, hat uns das Unternehmen <a href="https://www.techmatrix.de/"><strong>Techmatrix Consulting GmbH</strong></a> aus Neufarn wieder durch eine Geldspende unterstützt.</span>
   <figure>
     <a href="https://www.techmatrix.de/">
       <img src="{{ site.baseurl }}/images/2018-sponsoren/Techmatrix_CMYK.png" />
