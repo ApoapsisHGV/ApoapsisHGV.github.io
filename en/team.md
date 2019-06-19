@@ -68,3 +68,10 @@ ref: team
   </figure>
   <span>“My name is <strong>Victor Sun</strong> and together with Leon, I'm engaged in the (mechanical) construction of the CanSat. I also help out with other problems when needed.”</span>
 </section>
+
+<section class="team-member-presentation side-figure" id="jan">
+  <figure>
+    <img src="{{ site.baseurl }}/images/2019-team-members/jan.jpg" />
+  </figure>
+  <span>„I'm <strong>Jan Adä</strong> and I help out developing the software, especially the Hardware Abstraction Layer (HAL).“</span>
+</section>

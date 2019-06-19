@@ -68,3 +68,10 @@ ref: team
   </figure>
   <span>„Mein Name ist <strong>Victor Sun</strong> und ich übernehme gemeinsam mit Leon die (mechanische) Konstruktion des CanSats. Bei Bedarf helfe ich auch in den anderen Bereichen ein wenig aus.“</span>
 </section>
+
+<section class="team-member-presentation side-figure" id="jan">
+  <figure>
+    <img src="{{ site.baseurl }}/images/2019-team-members/jan.jpg" />
+  </figure>
+  <span>„Ich heiße <strong>Jan Adä</strong> und helfe bei der Softwareentwicklung mit, insbesondere beim Hardware Abstraction Layer (HAL).“</span>
+</section>
