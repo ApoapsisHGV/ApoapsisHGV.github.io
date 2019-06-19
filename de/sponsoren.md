@@ -42,8 +42,17 @@ ref: sponsoren
   </figure>
 </section>
 
+<section class="side-figure" id="techmatrix">
+  <span>Das Unternehmen <a href="https://www.techmatrix.de/"><strong>Techmatrix Consulting GmbH</strong></a> aus Neufarn hat unser Projekt durch eine Geldspende unterstützt.</span>
+  <figure>
+    <a href="https://www.techmatrix.de/">
+      <img src="{{ site.baseurl }}/images/2018-sponsoren/Techmatrix_CMYK.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="jlcpcb">
-  <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> ist ein führender Leiterplatten-Hersteller für Anwendungen unterschiedlichster Art. Sie unterstützen uns indem Sie unsere Platinen herstellen.</span>
+  <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> ist ein führender Leiterplatten-Hersteller für Anwendungen unterschiedlichster Art. Sie unterstützen uns, indem Sie unsere Platinen herstellen.</span>
   <figure>
     <a href="https://jlcpcb.com">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/JLCPCB.png" />

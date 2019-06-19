@@ -42,6 +42,15 @@ ref: sponsoren
   </figure>
 </section>
 
+<section class="side-figure" id="techmatrix">
+  <span>The company <a href="https://www.techmatrix.de/"><strong>Techmatrix Consulting GmbH</strong></a> from Neufarn supported our project with a donation.</span>
+  <figure>
+    <a href="https://www.techmatrix.de/">
+      <img src="{{ site.baseurl }}/images/2018-sponsoren/Techmatrix_CMYK.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="jlcpcb">
   <span><a href="https://jlcpcb.com"><strong>JLCPCB</strong></a> is a leading Chinese PCB manufacturer for hobbyist, commercial and industrial applications. JLCPCB produces high quality PCBs for very low prices. They support us by providing us with our circuit boards.</span>
   <figure>
