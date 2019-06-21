@@ -59,7 +59,7 @@ ref: team
   <figure>
     <img src="{{ site.baseurl }}/images/2019-team-members/johanna.jpg" />
   </figure>
-  <span>„Ich bin <strong>Johanna Schneeberger</strong> und genauso wie Henrik für die Programmierung zuständig. Dabei beschäftige ich mich unter Anderem mit der Ansteuerung der verschiedenen Sensoren in unserem CanSat.“</span>
+  <span>„Ich bin <strong>Johanna Schneeberger</strong> und für die Programmierung zuständig. Dabei konzentriere ich mich auf unsere Sekundärmission, also die Auswertung der stereoskopischen Bilder.“</span>
 </section>
 
 <section class="team-member-presentation side-figure" id="victor">
