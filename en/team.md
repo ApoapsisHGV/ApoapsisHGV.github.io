@@ -59,7 +59,7 @@ ref: team
   <figure>
     <img src="{{ site.baseurl }}/images/2019-team-members/johanna.jpg" />
   </figure>
-  <span>“I'm <strong>Johanna Schneeberger</strong> and like Henrik, I'm responsible for programming. Amongst others, this means designing the controlment of the various sensors in our CanSat.”</span>
+  <span>“I'm <strong>Johanna Schneeberger</strong> and I'm responsible for programming. My focus is on our secondary mission, i. e. evaluating the stereoscopic images.”</span>
 </section>
 
 <section class="team-member-presentation side-figure" id="victor">
