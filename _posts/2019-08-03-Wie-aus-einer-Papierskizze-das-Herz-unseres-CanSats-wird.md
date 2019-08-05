@@ -4,8 +4,9 @@ title: Wie aus einer Papierskizze das Herz unseres CanSats wird
 lang: DE
 ref: Platinendesign2019
 categories: [cansat2019]
-teaserImage: /images/posts/TODO
+teaserImage: /images/posts/2019-08-03_Platinen_mit_Schaltplan.JPG
 ---
+Die Platinen sind das Herz unseres CanSats. Dort werden alle elektronische Komponenten befestigt und die Daten von den Sensoren zum Mikrocontroller weitergeleitet. Auch die Stromversorgung, Speicher und Backupsystem sind auf der Platine untergebracht. Allerdings ist das Design und die Herrstellung der Leiterplatten durchaus aufwendig. Wie aus einer Idee und einer Skizze fertige Leiterplatten werden beschreiben wir in diesem Blogpost.
 
 ## Welche Komponenten müssen verbaut werden?
 
@@ -20,6 +21,9 @@ Dazu kommen noch Spannungsregler, Speicherchips, SD-Kartenslots, der Motortreibe
 Daher haben wir uns entschieden, die SMD-Bauelemente direkt auf eine selbstdesignte Platine zu setzen. Dazu mussten wir zunächst mehrere hunderte Seiten von Datenblättern durchkämmen, um zu verstehen, wie die einzelnen Chips und Sensoren platziert werden können. Auch gibt es für einige der Breakouts, die wir zum Testen verwendet haben, öffentliche Referenzdesigns, die wir direkt in unsere Schaltung einbauen konnten.
 
 Nach und nach entstand so der erste wichtige Meilenstein: Unser Schaltplan. Diesen haben wir in [KiCad](http://www.kicad-pcb.org/) designt, einer Open-Source-Designumgebung für Schaltungsdesign.
+
+{% include post-figure.html path="/images/posts/2019-08-03_Platinenlayout_EDA.png" caption="Das fertige Layout" %}
+
 
 ## Die Platinen
 
@@ -43,8 +47,13 @@ Insgesamt verwenden wir fünf Platinen für unser Projekt:
 
 Nachdem wir die Platinen erhalten haben, gings an die Bestückung. Mithilfe von Schablonen haben wir Lötpaste aufgetragen und danach mit ruhiger Hand die einzelnen Komponenten platziert. Sobald alle Chips und passive Komponenten an der richtigen Stelle waren, verflüssigten wir die Lötpaste mit einer Heißluftlötstation.
 
+{% include post-figure.html path="/images/posts/2019-08-03_SMD_Komponenten.JPG" caption="Ein 0402 Kondensator" %}
+{% include post-figure.html path="/images/posts/2019-08-03_Lötpaste_auftragen.JPG" caption="Beschichtung der Platinen" %}
+
 ## Kein Plan ist perfekt
 
 Schon bald haben wir mehrere kleine Probleme in unserem Platinendesign gefunden, die wir in einer zweiten Revision der Hauptplatine beheben wollen. Dazu gehören unter anderem, dass wir die Sensoren aus Redundanzgründen nicht alle an einem I²C/SPI Bus hängen wollen. Zudem hat sich die Bit-Bang-Implementierung des DVP (Digital Video Port), den wir für die Kameras verwenden wollen, als schwieriger herausgestellt als gedacht. Daher werden wir beide Kameras an einen Bus hängen und mit dem DCMI (Digial Camera Interface) verbinden, das der STM32 nativ zur Verfügung stellt. Auch müssen ein paar Footprints aktualisiert werden und das Layout für die Befestigung im CanSat angepasst werden.
+
+{% include post-figure.html path="/images/posts/2019-08-03_Platine_durch_Lupe.JPG" caption="Die bestückte Platine" %}
 
 Bisher war das Elektronikdesign für uns eine herausragende Lernerfahrung – nicht nur, was das Layout und die Bestückung angeht, sondern die Implementierung von verschiedenen Kommunikationsprotokollen (wie bspw. I2C, SPI, USART, SDMMC und USB) sowie die Umsetzung von Designstandards. Sobald wir die nächste Version unserer Platine haben, können wir einen ersten Prototypen fertigstellen.
