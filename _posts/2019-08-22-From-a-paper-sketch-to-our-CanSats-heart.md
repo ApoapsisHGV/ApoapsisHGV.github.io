@@ -4,14 +4,14 @@ title: From a paper sketch to our CanSat's brain
 lang: EN
 ref: Platinendesign2019
 categories: [cansat2019]
-teaserImage: /images/posts/2019-08-22_Platinen_mit_Schaltplan.JPG
+teaserImage: /images/posts/2019-08-23_Platinen_mit_Schaltplan.jpg
 ---
 
 The printed circuit boards (PCBs) are our CanSat's heart. They hold all electronic components and forward the sensor data to our microcontroller. The PCBs also accommodate power supply, memory and the backup system. However, the design and assembly of the circuit boards is quite complex. We'll explain you in this blogpost how to turn an idea and a sketch into finished printed circuit boards.
 
 ## Which components have to be installed?
 
-{% include post-figure.html path="/images/posts/2019-08-22_SMD_Komponenten.JPG" caption="Some components are quite tiny, like this little 0402 capacitor." alignment="right" image_size="small" %}
+{% include post-figure.html path="/images/posts/2019-08-23_SMD_Komponenten.jpg" caption="Some components are quite tiny, like this little 0402 capacitor." alignment="right" image_size="small" %}
 
 In total, 17 sensors are used in our CanSat. We measure air pressure and temperature in several places, but also position, rotation, acceleration, internal temperatures, power consumption and light incidence are captured – sometimes with more than one sensor each.
 
@@ -27,7 +27,7 @@ That's why we decided to place the SMD components directly on a self-designed ci
 
 Gradually, the first important milestone was reached: our circuit diagram. We designed it in [KiCad](http://www.kicad-pcb.org/), an open source design environment for circuit design.
 
-{% include post-figure.html path="/images/posts/2019-08-22_Platinenlayout_EDA.png" caption="The finished layout" %}
+{% include post-figure.html path="/images/posts/2019-08-23_Platinenlayout_EDA.png" caption="The finished layout" %}
 
 
 ## The PCBs
@@ -52,12 +52,12 @@ In total, we use five circuit boards for our project:
 
 After we had received the circuit boards, the assembly started. Using stencil, we applied solder paste and then placed the individual components with a steady hand. Once all the chips and passive components were in place, we liquefied the solder paste with a hot air soldering station.
 
-{% include post-figure.html path="/images/posts/2019-08-22_Lötpaste_auftragen.JPG" caption="Coating of the circuit boards" %}
+{% include post-figure.html path="/images/posts/2019-08-23_Lötpaste_auftragen.jpg" caption="Coating of the circuit boards" %}
 
 ## No plan is perfect
 
 Soon we found several small problems in our board design, which we want to fix in a second revision of the main board. For example, we don't want to connect all the sensors to a asingle I²C/SPI bus for redundancy reasons. In addition, the bit-bang implementation of the DVP (Digital Video Port) we want to use for the cameras has turned out to be more difficult than expected. Therefore, we will connect both cameras to a bus and connect them to the DCMI (Digial Camera Interface) provided natively by the STM32. Also some footprints have to be updated and the layout has to be adapted for the mounting in our CanSat.
 
-{% include post-figure.html path="/images/posts/2019-08-22_Platine_durch_Lupe.JPG" caption="The assembled circuit board" %}
+{% include post-figure.html path="/images/posts/2019-08-23_Platine_durch_Lupe.jpg" caption="The assembled circuit board" %}
 
 So far, designing the electronics in our CanSat has been an outstanding learning experience for us – not only in terms of layout and assembly, but also the implementation of various communication protocols (such as I2C, SPI, USART, SDMMC and USB) and the realization of design standards. As soon as we have the next version of our board, we can build a first prototype CanSat.
