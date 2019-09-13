@@ -7,7 +7,7 @@ ref: sponsoren
 ---
 
 <section class="side-figure" id="mbda">
-  <span><a href="https://www.mbda-systems.com"><strong>MBDA Deutschland</strong></a> is an European defence company developing and producing missile systems for all branches of the armed forces. They not only support us financially but also give us the opportunity to use their test facilities for our CanSat.</span>
+  <span><a href="https://www.mbda-systems.com"><strong>MBDA Deutschland</strong></a> is an European defence company developing and producing missile systems for all branches of the armed forces. We not only received financial support from MBDA, but we were also allowed to test our CanSat in an environmental laboratory of their subcompany <a href="https://www.tdw-warhead-systems.de/en/"><strong>TDW</strong></a> in Schrobenhausen.</span>
   <figure>
     <a href="https://www.mbda-systems.com">
       <img src="{{ site.baseurl }}/images/2019-sponsoren/MBDA.png" />
