@@ -51,6 +51,24 @@ ref: sponsoren
   </figure>
 </section>
 
+<section class="side-figure" id="attocube">
+  <span><a href="https://www.attocube.com/"><strong>attocube</strong></a> is a leading pioneer for nanotechnology solutions in industry and research. The company form Haar near Munich supports our project with a monetary donation.</span>
+  <figure>
+    <a href="https://www.attocube.com/">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/Attocube.png" />
+    </a>
+  </figure>
+</section>
+
+<section class="side-figure" id="sarp">
+  <span>The firm <a href="http://sarp-feinmechanik.de/"><strong>SARP Feinmechanik</strong></a> kindly produced our reaction wheel using their CNC milling machine. SARP convinces through a very precise high-quality production.</span>
+  <figure>
+    <a href="http://sarp-feinmechanik.de/">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/SARP.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="lcsc">
   <span><a href="https://lcsc.com"><strong>LCSC</strong></a> is a distributor for various electronic components at very low prices. From SMD resistors up to microcontrollers and radio modules you can find everything here. LCSC supports us with the sourcing of the different electronic components for our CanSat.
   Get 8$ off your first order at <a href="https://lcsc.com">LCSC.com</a>.</span>
