@@ -62,13 +62,6 @@ ref: team
   <span>“I'm <strong>Johanna Schneeberger</strong> and I'm responsible for programming. My focus is on our secondary mission, i. e. evaluating the stereoscopic images.”</span>
 </section>
 
-<section class="team-member-presentation side-figure" id="victor">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/victor.jpg" />
-  </figure>
-  <span>“My name is <strong>Victor Sun</strong> and together with Leon, I'm engaged in the (mechanical) construction of the CanSat. I also help out with other problems when needed.”</span>
-</section>
-
 <section class="team-member-presentation side-figure" id="jan">
   <figure>
     <img src="{{ site.baseurl }}/images/2019-team-members/jan.jpg" />
