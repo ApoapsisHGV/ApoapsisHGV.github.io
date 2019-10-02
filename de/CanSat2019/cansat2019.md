@@ -147,6 +147,24 @@ Beim [6. Deutschen CanSat-Wettbewerb 2019](https://www.cansat.de/wettbewerb-2019
   </figure>
 </section>
 
+<section class="side-figure" id="attocube">
+  <span>Das in der Nanotechnologie tätige Unternehmen <a href="https://www.attocube.com/"><strong>attocube systems AG</strong></a> aus Haar bei München hat unser Projekt durch eine Geldspende unterstützt. Attocube leistet Pioniersarbeit in Industrie und Forschung der Nanotechnik.</span>
+  <figure>
+    <a href="https://www.attocube.com/">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/Attocube.png" />
+    </a>
+  </figure>
+</section>
+
+<section class="side-figure" id="sarp">
+  <span>Die Firma <a href="http://sarp-feinmechanik.de/"><strong>SARP Feinmechanik</strong></a> hat für uns freundlicherweise mit ihrer CNC-Fräse unser Reaktionsrad hergestellt. SARP überzeugt durch eine präzise und qualitativ hochwertige Fertigung.</span>
+  <figure>
+    <a href="http://sarp-feinmechanik.de/">
+      <img src="{{ site.baseurl }}/images/2019-sponsoren/SARP.png" />
+    </a>
+  </figure>
+</section>
+
 <section class="side-figure" id="lcsc">
   <span><a href="https://lcsc.com"><strong>LCSC</strong></a> ist ein Distributor für verschiedenste elektronische Komponenten zu günstigen Preisen. Von SMD-Widerständen über Mikrocontroller bis hin zu Funkmodulen findet man hier alles. LCSC unterstützt uns beim Einkauf der verschiedenen elektronischen Komponenten für unseren CanSat.
   Nutze einen 8$ Startercoupon auf deine erste Bestellung bei <a href="https://lcsc.com"><strong>LCSC.com</strong></a>
