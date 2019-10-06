@@ -132,7 +132,12 @@ strong, b {
   font-weight: $nunito-bold;
 }
 
-img {
+small {
+  font-size: 90%;
+  opacity: .8;
+}
+
+img, video {
   max-width: 100%;
 }
 

@@ -62,13 +62,6 @@ ref: team
   <span>„Ich bin <strong>Johanna Schneeberger</strong> und für die Programmierung zuständig. Dabei konzentriere ich mich auf unsere Sekundärmission, also die Auswertung der stereoskopischen Bilder.“</span>
 </section>
 
-<section class="team-member-presentation side-figure" id="victor">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/victor.jpg" />
-  </figure>
-  <span>„Mein Name ist <strong>Victor Sun</strong> und ich übernehme gemeinsam mit Leon die (mechanische) Konstruktion des CanSats. Bei Bedarf helfe ich auch in den anderen Bereichen ein wenig aus.“</span>
-</section>
-
 <section class="team-member-presentation side-figure" id="jan">
   <figure>
     <img src="{{ site.baseurl }}/images/2019-team-members/jan.jpg" />
