@@ -16,6 +16,8 @@ Vom 23. bis zum 27. September waren wir in Bremen und haben nicht nur unseren Ca
 
 Trotzdem konnten wir die Jury mit unseren Ideen, insbesondere auch für die Bodenstation, überzeugen – und haben den 3. Platz geholt! Zweiter wurde das Team [GiS Worlds](http://www.gis-wf.de/cansat-wettbewerb/) und gewonnen hat [CANone](http://www.gis-wf.de/cansat-wettbewerb/) aus Wolfsburg. Glückwunsch! Allerdings ist keines der acht Teams am Ende Verlierer gewesen, da wir während des ganzen Projekts so viel gelernt haben.
 
+<small><em>Alle Fotos stammen, soweit nicht anders angegeben, von uns und unterliegen dem Urheberrecht.</em></small>
+
 ## Tag 1 – Kennenlernen beim ZARM
 
 {% include post-figure.html path="/images/2019-Startkampagne/Tag1_ZARM_01.jpg" caption="Angekommen beim ZARM, dem Zentrum für angewandte Raumfahrttechnologie und Mikrogravitation." alignment="left" image_size="medium" %}

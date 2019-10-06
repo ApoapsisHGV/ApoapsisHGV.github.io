@@ -16,6 +16,7 @@ From 23 to 27 September, we were in Bremen and launched our CanSat in a rocket! 
 
 Nevertheless, we were able to convince the jury with our ideas, especially for the ground station - and won 3rd place! Second was team [GiS Worlds](http://www.gis-wf.de/cansat-wettbewerb/) and the winners are [CANone](http://www.gis-wf.de/cansat-wettbewerb/) from Wolfsburg. Congratulations! However, none of the eight teams was a loser in the end, because we learned so much during the whole project.
 
+<small><em>Unless otherwise stated, all images are taken by us and are subject to copyright.</em></small>
 
 ## 1st day – Getting to know each other at ZARM
 
