@@ -7,7 +7,10 @@ ref: index
 
 # The 6th German CanSat Competition 2019 is over!
 
-[Gewinnerfoto mit Pokal]
+<figure class="center medium">
+  {% include self-linked-image.html path="/images/Siegerfoto.jpg" alt="We've got 3rd placed at German CanSat Competition!" %}
+  <figcaption>We've got 3rd placed at German CanSat Competition! © Image: <a href="https://www.susanne-edelmann.de/">Susanne Edelmann</a></figcaption>
+</figure>
 
 From 23 to 27 September, we were in Bremen and launched our CanSat in a rocket! We also presented our project at a poster presentation and – after the data evaluation – in a final presentation ([PDF download](/images/2019-Startkampagne/Endpraesentation.pdf)) in front of the jury. Unfortunately not everything worked as we planned: The software for our STM chip was not ready in time, and therefore we could not use the cameras, the reaction wheel, the gyroscope and other sensors during the flight. However, our [backup system](/Backup-Lösungen/) worked, so we could at least measure air pressure and temperature.
 

@@ -7,7 +7,10 @@ ref: index
 
 # Der 6. Deutsche CanSat-Wettbewerb 2019 ist zu Ende!
 
-[Gewinnerfoto mit Pokal]
+<figure class="center medium">
+  {% include self-linked-image.html path="/images/Siegerfoto.jpg" alt="Wir haben den 3. Platz beim Deutschen CanSat-Wettbewerb erreicht!" %}
+  <figcaption>Wir haben den 3. Platz beim Deutschen CanSat-Wettbewerb erreicht! © Foto: <a href="https://www.susanne-edelmann.de/">Susanne Edelmann</a></figcaption>
+</figure>
 
 Vom 23. bis zum 27. September waren wir in Bremen und haben nicht nur unseren CanSat in einer Rakete starten lassen, sondern auch unser Projekt zunächst bei einer Posterpräsentation und später nach der Datenauswertung in einer Endpräsentation ([PDF-Download](/images/2019-Startkampagne/Endpraesentation.pdf)) vor der Jury vorgestellt. Leider hat nicht alles funktioniert, wie wir es uns vorstellt haben: Die Software für unseren STM-Chip war nicht rechtzeitig einsatzfähig, und daher konnten wir Kamera, Reaktionsrad, Gyroskop und weitere Sensoren während des Fluges nicht verwenden. Allerdings hat unser [Backup-System](/Backup-Lösungen/) funktioniert, weswegen wir zumindest Luftdruck und Temperatur messen konnten.
 
