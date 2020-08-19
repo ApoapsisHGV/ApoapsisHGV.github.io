@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /about/
+permalink: /cansat2019/about/
 lang: DE
 title: Über uns und das Projekt
-ref: about
+ref: about2019
 ---
 
 ## Wer sind wir?
