@@ -19,6 +19,7 @@ Beim [6. Deutschen CanSat-Wettbewerb 2019](https://www.cansat.de/wettbewerb-2019
   </ul>
 </div>
 
+
 ## Überblick
 
 <div class="page-banner side-figure">
@@ -40,7 +41,7 @@ Beim [6. Deutschen CanSat-Wettbewerb 2019](https://www.cansat.de/wettbewerb-2019
   <figure class="medium">
     {% include self-linked-image.html path="/images/2019-team-members/gruppenbild-querformat.jpg" %}
   </figure>
-  <div>Wir sind eine Gruppe aus acht Schülern des <a href="http://www.humboldt-gym.de/">Humboldt-Gymnasiums Vaterstetten (HGV)</a> in Baldham bei München.</div>
+  <div>Wir sind eine Gruppe aus acht Schülern des <a href="http://www.humboldt-gym.de/" target="_blank">Humboldt-Gymnasiums Vaterstetten (HGV)</a> in Baldham bei München.</div>
 </div>
 
 <section class="team-member-presentation side-figure" id="niklas">
