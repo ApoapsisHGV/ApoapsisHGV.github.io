@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /sponsoren/
+permalink: /cansat2019/sponsoren/
 lang: DE
 title: Sponsoren
-ref: sponsoren
+ref: sponsoren2019
 ---
 
 <section class="side-figure" id="mbda">
