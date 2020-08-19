@@ -14,6 +14,7 @@ Beim [6. Deutschen CanSat-Wettbewerb 2019](https://www.cansat.de/wettbewerb-2019
     <li><a href="#überblick">Überblick</a></li>
     <li><a href="#das-team">Das Team</a></li>
     <li><a href="#sponsoren">Sponsoren</a></li>
+    <li><a href="#der-wettbewerb-in-bremen">Wettbewerbstage</a></li>
     <li><a href="#blog-einträge-2019">Blog-Einträge (2019)</a></li>
   </ul>
 </div>
@@ -173,6 +174,18 @@ Beim [6. Deutschen CanSat-Wettbewerb 2019](https://www.cansat.de/wettbewerb-2019
     </a>
   </figure>
 </section>
+
+## Der Wettbewerb in Bremen
+
+<figure class="center medium">
+  {% include self-linked-image.html path="/images/Siegerfoto.jpg" alt="Wir haben den 3. Platz beim Deutschen CanSat-Wettbewerb erreicht!" %}
+  <figcaption>Wir haben den 3. Platz beim Deutschen CanSat-Wettbewerb erreicht! © Foto: <a href="https://www.susanne-edelmann.de/">Susanne Edelmann</a></figcaption>
+</figure>
+
+Vom 23. bis zum 27. September waren wir in Bremen und haben nicht nur unseren CanSat in einer Rakete starten lassen, sondern auch unser Projekt zunächst bei einer Posterpräsentation und später nach der Datenauswertung in einer Endpräsentation ([PDF-Download](/images/2019-Startkampagne/Endpraesentation.pdf)) vor der Jury vorgestellt. Leider hat nicht alles funktioniert, wie wir es uns vorstellt haben: Die Software für unseren STM-Chip war nicht rechtzeitig einsatzfähig, und daher konnten wir Kamera, Reaktionsrad, Gyroskop und weitere Sensoren während des Fluges nicht verwenden. Allerdings hat unser [Backup-System](/Backup-Lösungen/) funktioniert, weswegen wir zumindest Luftdruck und Temperatur messen konnten.
+
+Trotzdem konnten wir die Jury mit unseren Ideen, insbesondere auch für die Bodenstation, überzeugen – und haben den 3. Platz geholt! Zweiter wurde das Team [GiS Worlds](http://www.gis-wf.de/cansat-wettbewerb/) und gewonnen hat [CANone](http://www.gis-wf.de/cansat-wettbewerb/) aus Wolfsburg. Glückwunsch! Allerdings ist keines der acht Teams am Ende Verlierer gewesen, da wir während des ganzen Projekts so viel gelernt haben.
+<p><a href="{{ site.baseurl }}/cansat2019/wettbewerbstage2019/" class="read-more ">Weiterlesen</a></p>
 
 ## Blog-Einträge (2019)
 
