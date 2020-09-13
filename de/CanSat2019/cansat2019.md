@@ -74,7 +74,7 @@ Beim [6. Deutschen CanSat-Wettbewerb 2019](https://www.cansat.de/wettbewerb-2019
 
 <section class="team-member-presentation side-figure" id="teresa">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/teresa.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/Teresa.jpg" />
   </figure>
   <span>„Ich bin <strong>Teresa Wagner</strong> und bringe mich bei der Konstruktion und Hardware ein. Außerdem kümmere ich mich mit Felix um Instagram und Twitter. Genauso wie Jakob gehe ich in die 9. Klasse des <abbr title="Humboldt-Gymnasium Vaterstetten">HGV</abbr>, gehöre also zum Nachwuchs des Teams.“</span>
 </section>
