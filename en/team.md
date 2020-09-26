@@ -8,63 +8,49 @@ ref: team
 
 <div class="side-figure page-banner">
   <figure class="medium">
-    {% include self-linked-image.html path="/images/2019-team-members/gruppenbild-querformat.jpg" %}
+    {% include self-linked-image.html path="/images/2020-team-members/gruppenbild-querformat.jpg" %}
   </figure>
-  <span>We're a group of eight students from the <a href="http://www.humboldt-gym.de/">Humboldt-Gymnasium Vaterstetten</a> in Baldham near Munich.</span>
+  <span>We're a group of six students from <a href="http://www.humboldt-gym.de/">Humboldt-Gymnasium Vaterstetten</a> in Baldham near Munich.</span>
 </div>
-
-<section class="team-member-presentation side-figure" id="niklas">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/niklas.jpg" />
-  </figure>
-  <span>“I'm <strong>Niklas Cölle</strong>, the team's project leader. I'm responsible for the satellite's eletronics and control units. However, I also help with software development. I've always been interested in aerospace engineering and therefore wanted to work on a project like this one.”</span>
-</section>
-
-<section class="team-member-presentation side-figure" id="leon">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/leon.jpg" />
-  </figure>
-  <span>“My name is <strong>Leon Hauser</strong>. In 2018, I already assumed the role of the ‘structural engineer’ (since I'm interested in an engineer's career); I'm responsible for the construction this year as well. I joined the project because I've been interested in the construction of aerospace vehicles for a long time and couldn't resign such an opportunity.”</span>
-</section>
-
-<section class="team-member-presentation side-figure" id="henrik">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/henrik.jpg" />
-  </figure>
-  <span>“I'm <strong>Henrik Böving</strong>, one of our team's coders. As a hobby developer, I'm responsible for programming the CanSat and the ground station as well as for the evaluation of the collected data.”</span>
-</section>
-
-<section class="team-member-presentation side-figure" id="felix">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/felix.jpg" />
-  </figure>
-  <span>“My name is <strong>Felix Edelmann</strong>. I administrate the website and our social media channels. Furthermore, I mediate when there are disagreements in the team.”</span>
-</section>
 
 <section class="team-member-presentation side-figure" id="teresa">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/teresa.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/teresa.jpg" />
   </figure>
-  <span>“I'm <strong>Teresa Wagner</strong> and I contribute to the CanSat's construction and hardware as well as looking after Instagram and Twitter, together with Felix. Like Jakob, I'm attending the nineth grade of the <abbr title="Humboldt-Gymnasium Vaterstetten">HGV</abbr>, thus counting to the team's offspring.”</span>
+  <span>„I am <strong>Teresa Wagner</strong> and project manager in our team. One of my tasks is the construction of the hardware. Furthermore, together with Chiara I take care of the maintenance of our website and our social media channels“</span>
 </section>
 
 <section class="team-member-presentation side-figure" id="jakob">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/jakob.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/jakob.jpg" />
   </figure>
-  <span>“My name is <strong>Jakob Schaarschmidt</strong> and I engage in electronics and construction of our CanSat. I was suggested to this project by the Humboldt Academy of Science and Engineering (HASE) of our school.”</span>
+  <span>„My name is <strong>Jakob Schaarschmidt</strong>. I am mainly responsible for the electronics and the construction of our CanSat. Last year I was already able to participate in the competition and I am looking forward to be part of it again this year.“</span>
 </section>
 
-<section class="team-member-presentation side-figure" id="johanna">
+<section class="team-member-presentation side-figure" id="chiara">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/johanna.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/chiara.jpg" />
   </figure>
-  <span>“I'm <strong>Johanna Schneeberger</strong> and I'm responsible for programming. My focus is on our secondary mission, i. e. evaluating the stereoscopic images.”</span>
+  <span>„My name is <strong>Chiara Nadenau</strong> and my main tasks are programming and maintaining our website. I became aware of the project through a presentation at the <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy of Science and Engineering (HASE) </a> at our school.“</span>
 </section>
 
-<section class="team-member-presentation side-figure" id="jan">
+<section class="team-member-presentation side-figure" id="manuel">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/jan.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/manuel.jpg" />
   </figure>
-  <span>„I'm <strong>Jan Adä</strong> and I help out developing the software, especially the Hardware Abstraction Layer (HAL).“</span>
+  <span>„I am <strong>Manuel Domke</strong> and one of the programmers of our team. As a hobby programmer I am responsible for the software of the CanSat.“  </span>
+</section>
+
+<section class="team-member-presentation side-figure" id="daniel">
+  <figure>
+    <img src="{{ site.baseurl }}/images/2020-team-members/daniel.jpg" />
+  </figure>
+  <span>„My name is <strong> Daniel Hechtfischer </strong>. I help Manuel programming and controlling our CanSat. I also became aware of the project through a presentation at the <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy of Science and Engineering (HASE) </a> at our school.“</span>
+</section>
+
+<section class="team-member-presentation side-figure" id="anna">
+  <figure>
+    <img src="{{ site.baseurl }}/images/2020-team-members/anna.jpg" />
+  </figure>
+  <span>„I am <strong>Anna Eckstein</strong> and am involved in the construction of the hardware and electronics. I also help Jakob with the 3D modelling of the CanSat. I'm in the 9th grade, so I'm one of the youngest in our team.“</span>
 </section>
