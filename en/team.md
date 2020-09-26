@@ -10,7 +10,7 @@ ref: team
   <figure class="medium">
     {% include self-linked-image.html path="/images/2020-team-members/gruppenbild-querformat.jpg" %}
   </figure>
-  <span>We're a group of six students from <a href="http://www.humboldt-gym.de/">Humboldt-Gymnasium Vaterstetten</a> in Baldham near Munich.</span>
+  <div>We're a group of six students from <a href="http://www.humboldt-gym.de/">Humboldt-Gymnasium Vaterstetten</a> in Baldham near Munich.</div>
 </div>
 
 <section class="team-member-presentation side-figure" id="teresa">
