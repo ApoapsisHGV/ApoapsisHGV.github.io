@@ -28,3 +28,17 @@ Chiara maintains the website and manages the social media channels together with
 Anna is responsible for the development and testing of our recovery system, our parachute. 
 
 <p> <a href="{{ site.baseurl }}/en/team/" class="read-more">read more about the team</a> </p>
+
+<div class="page-banner side-figure">
+  <figure class="medium">
+    <img src="{{ site.baseurl }}/images/logo-1024x512.png" />
+  </figure>
+  <div>
+    <p>Our mission is called <abbr title="Apoapsis is an astronomical term: It describes the furthest point of an orbit from the central mass.">Apoapsis</abbr>, with which we want to take part at the <a href="https://cansat.de" target="_blank"German CanSat competition of 2020/21.</p>
+    <p><strong>What is a CanSat?</strong> A mini satellite at the size of a soda can.</p><!--beverage can?-->
+    <p><strong>What does our CanSat?</strong> It measures air pressure and temperature and it also detects various objects from above so that their position on the earth's surface can be seen afterwards.</p>
+    <p><a href="{{ site.baseurl }}/en/about/" class="read-more">read more</a></p>
+  </div>
+</div>
+
+<p>We're still looking for sponsors, if you're interested, <a href="mailto:{{ site.footer-links.email }}" target="_blank">feel free to contact us.</a></p>
