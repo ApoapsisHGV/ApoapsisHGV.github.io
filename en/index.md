@@ -16,7 +16,7 @@ Despite the Corona crisis, we want to participate again in this year's CanSat co
 
 As a mixture of experienced and new members, six of us have come together as a team and registered for this year's competition.
 
-As every year, this year's primary mission consists of measurements of temperature and air pressure during the flight, which can be used to calculate the CanSat's altitude and rate of fall. Based on the measured data, a temperature profile along the altitude parameter is created.
+Like every year, the primary mission consists of measurements of temperature and air pressure during the flight, which can be used to calculate the CanSat's altitude and rate of fall. Based on the measured data, a temperature profile along the altitude parameter is created.
 
 For the secondary mission, we have to be able to detect various objects distributed on the earth's surface from altitude and locate them as accurately as possible. They are then displayed on a map to scale.
 
