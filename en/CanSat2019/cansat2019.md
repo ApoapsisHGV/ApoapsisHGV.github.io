@@ -29,6 +29,7 @@ At [ESA's German CanSat competition of 2019](https://www.cansat.de/wettbewerb-20
     <p>Our mission is called <abbr title="Apoapsis is an astronomical term: It describes the furthest point of an orbit from the central mass.">Apoapsis</abbr>, with which we want to take part at the ESA's German CanSat competition of 2019.</p>
     <p><strong>What is a CanSat?</strong> A mini satellite at the size of a soda can.</p><!--beverage can?-->
     <p><strong>What does our CanSat?</strong> It measures air pressure, temperature and takes 3D photographs, while stabilizing itself with a reaction wheel.</p>
+    <p><a href="{{site.baseurl}}/en/cansat2019/about/" class="read-more">read more</a<p></p>
   </div>
 </div>
 
