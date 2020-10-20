@@ -27,4 +27,4 @@ The software, on the other hand, is Manuel and Daniel's specialty.
 Chiara maintains the website and manages the social media channels together with Teresa. 
 Anna is responsible for the development and testing of our recovery system, our parachute. 
 
-<p> <a href="{{ site.baseurl }}/team/" class="read-more">read more about the team</a> </p>
+<p> <a href="{{ site.baseurl }}/en/team/" class="read-more">read more about the team</a> </p>
