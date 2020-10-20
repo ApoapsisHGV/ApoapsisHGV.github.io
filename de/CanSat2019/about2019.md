@@ -13,7 +13,7 @@ Wir sind das Team Apoapsis aus Vaterstetten. Unsere Gruppe besteht aus acht Sch�
 ## Was ist ein CanSat?
 Ein CanSat ist eine Kapsel in der Größe einer handelsüblichen Getränkedose, die mithilfe einer kleinen Rakete in eine Höhe von ca. 1000m geschossen wird und daraufhin an einem Fallschirm wieder runtergleitet. Dabei sammeln die Sensoren an Bord verschiedene Daten über die Umgebung, zum Beispiel Temperatur, Druck, Position und vieles mehr. Diese Daten werden entweder in Echtzeit an eine Bodenstation übertragen oder in der Kapsel gespeichert und nach der Landung ausgelesen.
 
-Mehr Informationen über die Herausforderung gibt es auf der Website des offiziellen CanSat-Wettbewerbs 2019 unter [cansat.de](https://cansat.de)
+Mehr Informationen über die Herausforderung gibt es auf der Website des offiziellen CanSat-Wettbewerbs 2019 unter [cansat.de](https://cansat.de).
 
 
 ## Was macht unser CanSat?
