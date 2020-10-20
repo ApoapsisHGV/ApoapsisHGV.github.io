@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /en/casat2019/sponsors/
+permalink: /en/cansat2019/sponsors/
 lang: EN
 title: Sponsors
 ref: sponsoren2019
