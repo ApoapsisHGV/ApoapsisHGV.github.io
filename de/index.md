@@ -22,9 +22,9 @@ Für die Sekundärmission müssen wir verschiedene Objekte, die auf der Erdoberf
 Zum Team:
 
 Als schon erfahrene Teammitglieder übernehmen Jakob und Teresa die Projektleitung unseres Teams. Sie sind außerdem für die Elektronik und die Hardware des CanSats zuständig. 
-Die Software hingegen ist Manuel und Daniels Spezialgebiet. 
-Chiara hält die Webseite in Stand und verwaltet zusammen mit Teresa die Social-Media- Kanäle. 
-Anna ist für die Entwicklung und das Testen unseres Bergungssystems, also unseren Fallschirm, zuständig. 
+Die Software hingegen ist Manuels und Daniels Spezialgebiet. 
+Chiara hält die Webseite in Stand und verwaltet zusammen mit Teresa die Social-Media-Kanäle. 
+Anna ist für die Entwicklung und das Testen unseres Bergungssystems, also unseres Fallschirms, zuständig. 
 
 <p> <a href="{{ site.baseurl }}/team/" class="read-more">mehr über das Team</a> </p>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: en/cansat2019/wettbewerbstage2019/
+permalink: en/cansat2019/competitiondays2019/
 lang: EN
 title: The 6th German CanSat Competition 2019 is over!
 ref: competitiondays2019

@@ -53,5 +53,5 @@ ref: team
   <figure>
     <img src="{{ site.baseurl }}/images/2020-team-members/anna.jpg" />
   </figure>
-  <span>„Ich bin <strong>Anna Eckstein</strong> und bringe mich bei der Konstruktion der Hardware und Elektronik ein. Außerdem helfe ich Jakob beim 3D-modellieren des CanSats. Ich gehe in die 9 Klasse, weshalb ich zum Nachwuchs unseres Teams gehöre.“</span>
+  <span>„Ich bin <strong>Anna Eckstein</strong> und bringe mich bei der Konstruktion der Hardware und Elektronik ein. Außerdem helfe ich Jakob beim 3D-Modellieren des CanSats. Ich gehe in die 9. Klasse, weshalb ich zum Nachwuchs unseres Teams gehöre.“</span>
 </section>
