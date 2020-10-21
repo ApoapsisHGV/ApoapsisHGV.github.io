@@ -15,14 +15,14 @@ ref: team
 
 <section class="team-member-presentation side-figure" id="teresa">
   <figure>
-    <img src="{{ site.baseurl }}/images/2020-team-members/teresa.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/Teresa.jpg" />
   </figure>
   <span>„I am <strong>Teresa Wagner</strong> and project manager in our team. One of my tasks is the construction of the hardware. Furthermore, together with Chiara I take care of the maintenance of our website and our social media channels“</span>
 </section>
 
 <section class="team-member-presentation side-figure" id="jakob">
   <figure>
-    <img src="{{ site.baseurl }}/images/2020-team-members/jakob.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/Jakob.jpg" />
   </figure>
   <span>„My name is <strong>Jakob Schaarschmidt</strong>. I am mainly responsible for the electronics and the construction of our CanSat. Last year I was already able to participate in the competition and I am looking forward to be part of it again this year.“</span>
 </section>
@@ -36,14 +36,14 @@ ref: team
 
 <section class="team-member-presentation side-figure" id="manuel">
   <figure>
-    <img src="{{ site.baseurl }}/images/2020-team-members/manuel.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/Manuel.jpg" />
   </figure>
   <span>„I am <strong>Manuel Domke</strong> and one of the programmers of our team. As a hobby programmer I am responsible for the software of the CanSat.“  </span>
 </section>
 
 <section class="team-member-presentation side-figure" id="daniel">
   <figure>
-    <img src="{{ site.baseurl }}/images/2020-team-members/daniel.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/Daniel.jpg" />
   </figure>
   <span>„My name is <strong>Daniel Hechtfischer </strong>. I help Manuel programming and controlling our CanSat. I also became aware of the project through a presentation at the <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> at our school.“</span>
 </section>
