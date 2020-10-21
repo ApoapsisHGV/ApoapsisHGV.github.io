@@ -45,7 +45,7 @@ ref: team
   <figure>
     <img src="{{ site.baseurl }}/images/2020-team-members/daniel.jpg" />
   </figure>
-  <span>„My name is <strong> Daniel Hechtfischer </strong>. I help Manuel programming and controlling our CanSat. I also became aware of the project through a presentation at the <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> at our school.“</span>
+  <span>„My name is <strong>Daniel Hechtfischer </strong>. I help Manuel programming and controlling our CanSat. I also became aware of the project through a presentation at the <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> at our school.“</span>
 </section>
 
 <section class="team-member-presentation side-figure" id="anna">

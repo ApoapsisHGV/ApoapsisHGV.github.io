@@ -23,7 +23,7 @@ For the secondary mission, we have to be able to detect various objects distribu
 The team:
 
 Because Jakob and Teresa are already experienced members, they take over the project management of our team. They are also responsible for the CanSat's electronics and hardware. 
-The software, on the other hand, is Manuel and Daniel's specialty. 
+The software, on the other hand, is Manuel's and Daniel's specialty. 
 Chiara maintains the website and manages the social media channels together with Teresa. 
 Anna is responsible for the development and testing of our recovery system, our parachute. 
 
