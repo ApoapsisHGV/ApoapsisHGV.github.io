@@ -5,128 +5,40 @@ lang: EN
 ref: index
 ---
 
-# The 6th German CanSat Competition 2019 is over!
+# New School Year - New Challenge!
 
 <figure class="center medium">
-  {% include self-linked-image.html path="/images/Siegerfoto.jpg" alt="We've got 3rd placed at German CanSat Competition!" %}
-  <figcaption>We've got 3rd placed at German CanSat Competition! © Image: <a href="https://www.susanne-edelmann.de/">Susanne Edelmann</a></figcaption>
+  {% include self-linked-image.html path="/images/2020-team-members/gruppenbild-querformat.jpg" alt="teamphoto" %}
 </figure>
 
-From 23 to 27 September, we were in Bremen and launched our CanSat in a rocket! We also presented our project at a poster presentation and – after the data evaluation – in a final presentation ([PDF download](/images/2019-Startkampagne/Endpraesentation.pdf)) in front of the jury. Unfortunately not everything worked as we planned: The software for our STM chip was not ready in time, and therefore we could not use the cameras, the reaction wheel, the gyroscope and other sensors during the flight. However, our [backup system](/Backup-Lösungen/) worked, so we could at least measure air pressure and temperature.
 
-Nevertheless, we were able to convince the jury with our ideas, especially for the ground station - and won 3rd place! Second was team [GiS Worlds](http://www.gis-wf.de/cansat-wettbewerb/) and the winners are [CANone](http://www.gis-wf.de/cansat-wettbewerb/) from Wolfsburg. Congratulations! However, none of the eight teams was a loser in the end, because we learned so much during the whole project.
+<p>Despite the Corona crisis, we want to participate again in this year's CanSat competition. With the experience we have gained in recent years, we are starting the <a href="https://www.cansat.de/wettbewerb-2020-21" target="__blank">7th German CanSat Competition 2020/21</a> with confidence and full of anticipation.</p> 
 
-<small><em>Unless otherwise stated, all images are taken by us and are subject to copyright.</em></small>
+As a mixture of experienced and new members, six of us have come together as a team and registered for this year's competition.
 
-## 1st day – Getting to know each other at ZARM
+Like every year, the primary mission consists of measurements of temperature and air pressure during the flight, which can be used to calculate the CanSat's altitude and rate of fall. Based on the measured data, a temperature profile along the altitude parameter is created.
 
-{% include post-figure.html path="/images/2019-Startkampagne/Tag1_ZARM_01.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag1_ZARM_03.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag1_ZARM_02.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag1_Letzte-Vorbereitungen.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
+For the secondary mission, we have to be able to detect various objects distributed on the earth's surface from altitude and locate them as accurately as possible. They are then displayed on a map to scale.
 
-## 2nd day – Poster presentations and technical acceptance
+The team:
 
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_DLR_01.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_DLR_02.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_DLR_04.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_DLR_05.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_DLR_03.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_DLR_06.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
+Because Jakob and Teresa are already experienced members, they take over the project management of our team. They are also responsible for the CanSat's electronics and hardware. 
+The software, on the other hand, is Manuel's and Daniel's specialty. 
+Chiara maintains the website and manages the social media channels together with Teresa. 
+Anna is responsible for the development and testing of our recovery system, our parachute. 
 
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_Abnahme_01.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_Abnahme_02.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_Abnahme_05.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_Abnahme_03.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_Abnahme_04.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag2_Abnahme_06.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-
-## 3rd day – rocket launch!
-
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_01.JPG" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_02.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_03.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_04.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_06.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_05.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_07.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-<figure class="center medium">
-  <video src="/images/2019-Startkampagne/Tag3_Start.mp4" alt="Bis zu 700m hoch soll die Rakete fliegen." controls></video>
-  <figcaption>
-    <a href="/images/2019-Startkampagne/Tag3_Start.mp4">[Direct video link]</a>
-  </figcaption>
-</figure>
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_08.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Start_09.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag3_Auswertung.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-
-## 4th day – Final presentation at OHB
-
-{% include post-figure.html path="/images/2019-Startkampagne/Tag4_Endpraesentation_01.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag4_Endpraesentation_02.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-
-## 5th day – Prize-giving at Airbus Defence and Space / Ariane Group
-
-{% include post-figure.html path="/images/2019-Startkampagne/Tag5_Airbus_01.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag5_Airbus_02.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag5_Airbus_03.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag5_Airbus_04.gif" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-{% include post-figure.html path="/images/2019-Startkampagne/Tag5_Urkunde.jpg" caption="" alignment="left" image_size="medium" %}
-{% include post-figure.html path="/images/2019-Startkampagne/Tag5_Bremen.jpg" caption="" alignment="left" image_size="medium" %}
-<div class="clearfix"></div>
-
-
-# Archive
+<p> <a href="{{ site.baseurl }}/en/team/" class="read-more">read more about the team</a> </p>
 
 <div class="page-banner side-figure">
   <figure class="medium">
     <img src="{{ site.baseurl }}/images/logo-1024x512.png" />
   </figure>
   <div>
-    <p>Our mission is called <abbr title="Apoapsis is an astronomical term: It describes the furthest point of an orbit from the central mass.">Apoapsis</abbr>, with which we want to take part at the <a href="https://cansat.de">ESA's German CanSat competition of 2019</a>.</p>
-    <p><strong>What is a CanSat?</strong> A mini satellite at the size of a soda can.</p>
-    <p><strong>What does our CanSat do?</strong> It measures air pressure and temperature, takes 3D pictures and stabilizies itself using a reaction wheel.</p>
-    <p><a href="{{ site.baseurl }}/en/about/" class="read-more">more about this</a></p>
+    <p>Our mission is called <abbr title="Apoapsis is an astronomical term: It describes the furthest point of an orbit from the central mass.">Apoapsis</abbr>, with which we want to take part at the <a href="https://cansat.de" target="_blank">German CanSat competition of 2020/21</a>.</p>
+    <p><strong>What is a CanSat?</strong> A mini satellite at the size of a soda can.</p><!--beverage can?-->
+    <p><strong>What does our CanSat?</strong> It measures air pressure and temperature and it also detects various objects from above so that their position on the earth's surface can be seen afterwards.</p>
+    <p><a href="{{ site.baseurl }}/en/about/" class="read-more">read more</a></p>
   </div>
 </div>
 
-## Blog posts
-
-{% assign posts=site.posts | where:"lang", page.lang %}
-{% for post in posts %}
-{% if post.categories contains 'cansat2019' %}
-<article class="post clearfix">
-  <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="meta">{{ post.date | date: "%d/%b/%Y" }}</span></h2>
-
-  {% if post.teaserImage %}
-    <figure class="left">
-      <a href="{{ post.url }}">
-        <img src="{{ post.teaserImage }}" alt="{{ post.title }}" />
-      </a>
-    </figure>
-  {% endif %}
-
-  <div class="entry">
-    {{ post.excerpt }}
-  </div>
-
-  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more</a>
-</article>
-{% endif %}
-{% endfor %}
+<p>We're still looking for sponsors, if you're interested, <a href="mailto:{{ site.footer-links.email }}" target="_blank">feel free to contact us.</a></p>

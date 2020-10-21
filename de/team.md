@@ -8,63 +8,50 @@ ref: team
 
 <div class="page-banner side-figure">
   <figure class="medium">
-    {% include self-linked-image.html path="/images/2019-team-members/gruppenbild-querformat.jpg" %}
+    {% include self-linked-image.html path="/images/2020-team-members/gruppenbild-querformat.jpg" %}
   </figure>
-  <div>Wir sind eine Gruppe aus acht Schülern des <a href="http://www.humboldt-gym.de/">Humboldt-Gymnasiums Vaterstetten (HGV)</a> in Baldham bei München.</div>
+  <div>Wir sind eine Gruppe aus sechs Schülern des <a href="http://www.humboldt-gym.de/" target="_blank" >Humboldt-Gymnasiums Vaterstetten (HGV)</a> in Baldham bei München.</div>
 </div>
-
-<section class="team-member-presentation side-figure" id="niklas">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/niklas.jpg" />
-  </figure>
-  <span>„Ich bin <strong>Niklas Cölle</strong> und Projektleiter unseres Teams. Ich kümmere mich hauptsächlich um die Elektronik und die Steuerung unseres CanSats, helfe aber auch bei der Softwareentwicklung. Schon seit längerem interessiere ich mich für Raumfahrt und wollte daher schon immer mal ein Projekt wie dieses umsetzen.“</span>
-</section>
-
-<section class="team-member-presentation side-figure" id="leon">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/leon.jpg" />
-  </figure>
-  <span>„Mein Name ist <strong>Leon Hauser</strong>. Ich übernahm schon 2018 die Rolle des ‚Konstrukteurs‘ der Hardware (aus Eigeninteresse am Beruf eines Ingenieurs) und bin auch dieses Jahr für die Konstruktion zuständig. Dem Projekt bin ich beigetreten, da ich mich immer für die Konstruktion von Flugkörpern aus der Raumfahrt interessiert habe und auf eine solche Chance nicht verzichten konnte.“</span>
-</section>
-
-<section class="team-member-presentation side-figure" id="henrik">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/henrik.jpg" />
-  </figure>
-  <span>„Ich bin <strong>Henrik Böving</strong> und einer der Programmierer unseres Teams. Als Hobby-Entwickler bin ich verantwortlich für die Programmierung des CanSats, der dazugehörigen Bodenstation und für die Auswertung der Daten.“</span>
-</section>
-
-<section class="team-member-presentation side-figure" id="felix">
-  <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/felix.jpg" />
-  </figure>
-  <span>„Mein Name ist <strong>Felix Edelmann</strong>. Ich verwalte die Webseite und unsere Social-Media-Kanäle und agiere vermittelnd, wenn im Team Uneinigkeit herrscht.“</span>
-</section>
 
 <section class="team-member-presentation side-figure" id="teresa">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/teresa.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/Teresa.jpg" />
   </figure>
-  <span>„Ich bin <strong>Teresa Wagner</strong> und bringe mich bei der Konstruktion und Hardware ein. Außerdem kümmere ich mich mit Felix um Instagram und Twitter. Genauso wie Jakob gehe ich in die 9. Klasse des <abbr title="Humboldt-Gymnasium Vaterstetten">HGV</abbr>, gehöre also zum Nachwuchs des Teams.“</span>
+  <span>„Ich bin <strong>Teresa Wagner</strong> und Projektleiterin in unserem Team. Eine meiner Aufgaben ist das Konstruieren der Hardware. Des Weiteren kümmere ich mich zusammen mit Chiara um die Instandhaltung unserer Website und um unsere Social-Media-Kanäle.“</span>
 </section>
 
 <section class="team-member-presentation side-figure" id="jakob">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/jakob.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/Jakob.jpg" />
   </figure>
-  <span>„Mein Name ist <strong>Jakob Schaarschmidt</strong> und ich beteilige mich bei verschiedenen Problemen zur Elektronik und Konstruktion des CanSats. Angeregt wurde ich dabei von der Humboldt Academy of Science and Engineering (HASE) unserer Schule.“</span>
+  <span>„Mein Name ist <strong>Jakob Schaarschmidt</strong>. Ich kümmere mich hauptsächlich um die Elektronik und den Aufbau unseres CanSat. Bereits letztes Jahr konnte ich mich im Wettbewerb gut einbringen und freue mich, auch dieses Jahr wieder mit dabei zu sein.“</span>
 </section>
 
-<section class="team-member-presentation side-figure" id="johanna">
+<section class="team-member-presentation side-figure" id="chiara">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/johanna.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/chiara.jpg" />
   </figure>
-  <span>„Ich bin <strong>Johanna Schneeberger</strong> und für die Programmierung zuständig. Dabei konzentriere ich mich auf unsere Sekundärmission, also die Auswertung der stereoskopischen Bilder.“</span>
+  <span>„Mein Name ist <strong>Chiara Nadenau</strong> und zu meinen Aufgaben gehören vor allem das Programmieren und das Instandhalten unserer Website. Auf das Projekt wurde ich durch einen Vortrag im Rahmen der <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> an unserer Schule aufmerksam.“</span>
 </section>
 
-<section class="team-member-presentation side-figure" id="jan">
+
+<section class="team-member-presentation side-figure" id="manuel">
   <figure>
-    <img src="{{ site.baseurl }}/images/2019-team-members/jan.jpg" />
+    <img src="{{ site.baseurl }}/images/2020-team-members/Manuel.jpg" />
   </figure>
-  <span>„Ich heiße <strong>Jan Adä</strong> und helfe bei der Softwareentwicklung mit, insbesondere beim Hardware Abstraction Layer (HAL).“</span>
+  <span>„Ich bin <strong>Manuel Domke</strong> und einer der Programmierer unseres Teams. Als Hobby-Programmierer bin ich zuständig für die Software des CanSats.“</span>
+</section>
+
+<section class="team-member-presentation side-figure" id="daniel">
+  <figure>
+    <img src="{{ site.baseurl }}/images/2020-team-members/Daniel.jpg" />
+  </figure>
+  <span>„Mein Name ist <strong>Daniel Hechtfischer</strong>. Ich helfe Manuel beim Programmieren und Ansteuern unseres CanSats. Auch ich wurde durch einen Vortrag im Rahmen der <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> an unserer Schule auf das Projekt aufmerksam.“</span>
+</section>
+
+<section class="team-member-presentation side-figure" id="anna">
+  <figure>
+    <img src="{{ site.baseurl }}/images/2020-team-members/anna.jpg" />
+  </figure>
+  <span>„Ich bin <strong>Anna Eckstein</strong> und bringe mich bei der Konstruktion der Hardware und Elektronik ein. Außerdem helfe ich Jakob beim 3D-Modellieren des CanSats. Ich gehe in die 9. Klasse, weshalb ich zum Nachwuchs unseres Teams gehöre.“</span>
 </section>
