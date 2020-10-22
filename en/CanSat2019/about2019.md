@@ -2,7 +2,7 @@
 layout: page
 permalink: /en/cansat2019/about/
 lang: EN
-title: CanSat 2019: About us and the project
+title: CanSat 2019 - About us and the project
 ref: about2019
 ---
 
