@@ -73,7 +73,7 @@ At [ESA's German CanSat competition of 2019](https://www.cansat.de/wettbewerb-20
 
 <section class="team-member-presentation side-figure" id="teresa">
   <figure>
-    <img src="{{ site.baseurl }}/images/2020-team-members/teresa.jpg" />
+    <img src="{{ site.baseurl }}/images/2019-team-members/teresa.jpg" />
   </figure>
   <span>“I'm <strong>Teresa Wagner</strong>. As supporting member, I maintain the website and help with coding-related problems.“</span>
 </section>
