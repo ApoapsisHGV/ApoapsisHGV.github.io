@@ -28,6 +28,29 @@ Anna ist für die Entwicklung und das Testen unseres Bergungssystems, also unser
 
 <p> <a href="{{ site.baseurl }}/team/" class="read-more">mehr über das Team</a> </p>
 
+{% assign posts=site.posts | where:"lang", page.lang %}
+{% for post in posts %}
+{% if post.categories contains 'cansat2020' %}
+<article class="post clearfix">
+  <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="meta">{{ post.date | date: "%d.%m.%Y"}}</span></h3>
+
+  {% if post.teaserImage %}
+    <figure class="left">
+      <a href="{{ post.url }}">
+        <img src="{{ post.teaserImage }}" alt="{{ post.title }}" />
+      </a>
+    </figure>
+  {% endif %}
+
+  <div class="entry">
+    {{ post.excerpt }}
+  </div>
+
+  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
+</article>
+{% endif %}
+{% endfor %}
+
 <div class="page-banner side-figure">
   <figure class="medium">
     <img src="{{ site.baseurl }}/images/logo-1024x512.png" />

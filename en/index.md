@@ -29,6 +29,29 @@ Anna is responsible for the development and testing of our recovery system, our 
 
 <p> <a href="{{ site.baseurl }}/en/team/" class="read-more">read more about the team</a> </p>
 
+{% assign posts=site.posts | where:"lang", page.lang %}
+{% for post in posts %}
+{% if post.categories contains 'cansat2020' %}
+<article class="post clearfix">
+  <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="meta">{{ post.date | date: "%d.%m.%Y"}}</span></h3>
+
+  {% if post.teaserImage %}
+    <figure class="left">
+      <a href="{{ post.url }}">
+        <img src="{{ post.teaserImage }}" alt="{{ post.title }}" />
+      </a>
+    </figure>
+  {% endif %}
+
+  <div class="entry">
+    {{ post.excerpt }}
+  </div>
+
+  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
+</article>
+{% endif %}
+{% endfor %}
+
 <div class="page-banner side-figure">
   <figure class="medium">
     <img src="{{ site.baseurl }}/images/logo-1024x512.png" />
