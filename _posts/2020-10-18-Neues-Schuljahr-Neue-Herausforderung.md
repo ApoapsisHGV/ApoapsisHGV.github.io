@@ -7,6 +7,10 @@ categories: [cansat2020]
 teaserImage: /images/2020-team-members/gruppenbild-querformat.jpg
 ---
 
+<figure class="center medium">
+  {% include self-linked-image.html path="/images/2020-team-members/gruppenbild-querformat.jpg" alt="teamphoto" %}
+</figure>
+
 <p>Trotz der Corona-Krise wollen wir erneut beim diesjährigen CanSat-Wettbewerb teilnehmen. Mit den gesammelten Erfahrungen der letzten Jahre starten wir zuversichtlich und voller Vorfreude in den <a href="https://www.cansat.de/wettbewerb-2020-21" target="__blank">7. Deutschen CanSat-Wettbewerb 2020/21</a>.</p>
 
 Als Mischung aus erfahrenen und neuen Mitgliedern haben wir uns zu sechst als Team zusammengefunden und für den diesjährigen Wettbewerb angemeldet.
