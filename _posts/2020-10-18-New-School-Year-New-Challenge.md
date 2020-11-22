@@ -7,10 +7,6 @@ categories: [cansat2020]
 teaserImage:  /images/2020-team-members/gruppenbild-querformat.jpg
 ---
 
-<figure class="center medium">
-  {% include self-linked-image.html path="/images/2020-team-members/gruppenbild-querformat.jpg" alt="teamphoto" %}
-</figure>
-
 <p>Despite the Corona crisis, we want to participate again in this year's CanSat competition. With the experience we have gained in recent years, we are starting the <a href="https://www.cansat.de/wettbewerb-2020-21" target="__blank">7th German CanSat Competition 2020/21</a> with confidence and full of anticipation.</p> 
 
 As a mixture of experienced and new members, six of us have come together as a team and registered for this year's competition.
