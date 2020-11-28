@@ -32,7 +32,7 @@ We are one of the 10 teams that were accepted in the CanSat competition! On Mond
     {{ post.excerpt }}
   </div>
 
-  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more</a>
 </article>
 {% endif %}
 {% endfor %}
