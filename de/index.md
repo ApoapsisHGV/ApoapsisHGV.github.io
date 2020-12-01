@@ -5,28 +5,36 @@ lang: DE
 ref: index
 ---
 
-# Neues Schuljahr - Neue Herausforderung!
+# Juhu-Wir nehmen erfolgreich am Wettbewerb teil!
 
 <figure class="center medium">
-  {% include self-linked-image.html path="/images/2020-team-members/gruppenbild-querformat.jpg" alt="Teamfoto" %}
+  {% include self-linked-image.html path="/images/posts/2020-11-15-Zeitplan.jpg" alt="Zeitplan" %}
 </figure>
 
-<p>Trotz der Corona-Krise wollen wir erneut beim diesjährigen CanSat-Wettbewerb teilnehmen. Mit den gesammelten Erfahrungen der letzten Jahre starten wir zuversichtlich und voller Vorfreude in den <a href="https://www.cansat.de/wettbewerb-2020-21" target="__blank">7. Deutschen CanSat-Wettbewerb 2020/21</a>.</p>
+Wir sind eines der 10 Teams, die beim CanSat-Wettbewerb angenommen wurden! Am Montag dem 09.11.20 hatten wir unsere erste Online - Veranstaltung des Wettbewerbs, das Kick-Off-Meeting. In diesem Meeting haben sich die Teams vorgestellt. Außerdem wurden uns weitere Termine, Tipps für die derzeitige Situation mit dem Corona-Virus und Erklärungen zu dem Zeitplan und der Bedienungsanleitung genannt. Auch gab es die Möglichkeit Fragen an die Veranstalter zu stellen. Danach haben wir noch ein kleines Spiel gespielt, bei dem jede Gruppe zwei wahre und eine falsche Aussage über das eigene Team bereitgestellt haben. Die anderen Teilnehmer mussten dann erraten, welche Behauptungen stimmen. Unsere Aussagen waren „unser Team ist ein internationales Team mit 5 Staatsbürgerschaften“, ,„Zwei von uns haben letztes Jahr schon am Wettbewerb teilgenommen“ und „Wir haben uns vor dem Wettbewerb schon unsere eigene Sekundärmission überlegt, bis bekannt wurde, dass dieses Jahr jeder die gleiche Sekundärmission machen soll“. Und welche ist die falsche Aussage? –Na klar, die erste, ganz so international sind wir nicht ;) Den Zeitplan haben wir abgegeben und werden jetzt vor allem Recherchearbeit erledigen. Wir freuen uns auf die zukünftigen Herausforderungen!
 
-Als Mischung aus erfahrenen und neuen Mitgliedern haben wir uns zu sechst als Team zusammengefunden und für den diesjährigen Wettbewerb angemeldet.
+{% assign posts=site.posts | where:"lang", page.lang %}
+{% for post in posts %}
+{% if post.categories contains 'cansat2020' %}
+<article class="post clearfix">
+  <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="meta">{{ post.date | date: "%d.%m.%Y"}}</span></h3>
 
-Die diesjährige Primärmission besteht wie jedes Jahr aus Messungen von Temperatur und Luftdruck während des Fluges, mit deren Hilfe die Höhe und die Fallgeschwindigkeit des CanSats errechnet werden können. Auf Basis der Messdaten wird ein Temperaturprofil entlang des Höhenparameters erstellt.
+  {% if post.teaserImage %}
+    <figure class="left">
+      <a href="{{ post.url }}">
+        <img src="{{ post.teaserImage }}" alt="{{ post.title }}" />
+      </a>
+    </figure>
+  {% endif %}
 
-Für die Sekundärmission müssen wir verschiedene Objekte, die auf der Erdoberfläche verteilt sind, aus der Höhe erkennen und möglichst genau lokalisieren können. Sie werden dann auf einer maßstabsgetreuen Landkarte angezeigt.
+  <div class="entry">
+    {{ post.excerpt }}
+  </div>
 
-Zum Team:
-
-Als schon erfahrene Teammitglieder übernehmen Jakob und Teresa die Projektleitung unseres Teams. Sie sind außerdem für die Elektronik und die Hardware des CanSats zuständig. 
-Die Software hingegen ist Manuels und Daniels Spezialgebiet. 
-Chiara hält die Webseite in Stand und verwaltet zusammen mit Teresa die Social-Media-Kanäle. 
-Anna ist für die Entwicklung und das Testen unseres Bergungssystems, also unseres Fallschirms, zuständig. 
-
-<p> <a href="{{ site.baseurl }}/team/" class="read-more">mehr über das Team</a> </p>
+  <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Weiterlesen</a>
+</article>
+{% endif %}
+{% endfor %}
 
 <div class="page-banner side-figure">
   <figure class="medium">
