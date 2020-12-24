@@ -13,6 +13,8 @@ ref: index
 
 Wir sind eines der 10 Teams, die beim CanSat-Wettbewerb angenommen wurden! Am Montag dem 09.11.20 hatten wir unsere erste Online - Veranstaltung des Wettbewerbs, das Kick-Off-Meeting. In diesem Meeting haben sich die Teams vorgestellt. Außerdem wurden uns weitere Termine, Tipps für die derzeitige Situation mit dem Corona-Virus und Erklärungen zu dem Zeitplan und der Bedienungsanleitung genannt. Auch gab es die Möglichkeit Fragen an die Veranstalter zu stellen. Danach haben wir noch ein kleines Spiel gespielt, bei dem jede Gruppe zwei wahre und eine falsche Aussage über das eigene Team bereitgestellt haben. Die anderen Teilnehmer mussten dann erraten, welche Behauptungen stimmen. Unsere Aussagen waren „unser Team ist ein internationales Team mit 5 Staatsbürgerschaften“, ,„Zwei von uns haben letztes Jahr schon am Wettbewerb teilgenommen“ und „Wir haben uns vor dem Wettbewerb schon unsere eigene Sekundärmission überlegt, bis bekannt wurde, dass dieses Jahr jeder die gleiche Sekundärmission machen soll“. Und welche ist die falsche Aussage? –Na klar, die erste, ganz so international sind wir nicht ;) Den Zeitplan haben wir abgegeben und werden jetzt vor allem Recherchearbeit erledigen. Wir freuen uns auf die zukünftigen Herausforderungen!
 
+<p>Wir suchen noch immer Sponsoren. Falls Sie Interesse haben, würden wir uns freuen, <a href="mailto:{{ site.footer-links.email }}" target="_blank">wenn Sie uns einfach kontaktieren.</a></p>
+
 {% assign posts=site.posts | where:"lang", page.lang %}
 {% for post in posts %}
 {% if post.categories contains 'cansat2020' %}
