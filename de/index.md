@@ -5,13 +5,16 @@ lang: DE
 ref: index
 ---
 
-# Juhu-Wir nehmen erfolgreich am Wettbewerb teil!
+# Weihnachtsupdate 
 
 <figure class="center medium">
-  {% include self-linked-image.html path="/images/posts/2020-11-15-Zeitplan.jpg" alt="Zeitplan" %}
+  {% include self-linked-image.html path="/images/posts/2020-12-24-Designbericht.jpg" alt="Zeitplan" %}
 </figure>
 
-Wir sind eines der 10 Teams, die beim CanSat-Wettbewerb angenommen wurden! Am Montag dem 09.11.20 hatten wir unsere erste Online - Veranstaltung des Wettbewerbs, das Kick-Off-Meeting. In diesem Meeting haben sich die Teams vorgestellt. Außerdem wurden uns weitere Termine, Tipps für die derzeitige Situation mit dem Corona-Virus und Erklärungen zu dem Zeitplan und der Bedienungsanleitung genannt. Auch gab es die Möglichkeit Fragen an die Veranstalter zu stellen. Danach haben wir noch ein kleines Spiel gespielt, bei dem jede Gruppe zwei wahre und eine falsche Aussage über das eigene Team bereitgestellt haben. Die anderen Teilnehmer mussten dann erraten, welche Behauptungen stimmen. Unsere Aussagen waren „unser Team ist ein internationales Team mit 5 Staatsbürgerschaften“, ,„Zwei von uns haben letztes Jahr schon am Wettbewerb teilgenommen“ und „Wir haben uns vor dem Wettbewerb schon unsere eigene Sekundärmission überlegt, bis bekannt wurde, dass dieses Jahr jeder die gleiche Sekundärmission machen soll“. Und welche ist die falsche Aussage? –Na klar, die erste, ganz so international sind wir nicht ;) Den Zeitplan haben wir abgegeben und werden jetzt vor allem Recherchearbeit erledigen. Wir freuen uns auf die zukünftigen Herausforderungen!
+Da wir am Montag den 21.12.2020 den ersten Designbericht für den CanSat Wettbewerb abgegeben haben, möchten wir euch ein kleines Update über unseren bisherigen Stand geben. Wir befinden uns am Ende unserer Recherchephase und werden bald einige Bauteile zum Testen bestellen. Leider werden wir nach den Ferien zunächst wenig Zeit für das Testen haben, denn aufgrund der hohen Covid-19 Fallzahlen und der damit einhergehenden Schulschließungen, wurde unsere Klausurenphase weiter nach hinten verschoben. Das heißt, auch direkt nach den Ferien müssen die Elftklässler, aber auch die Neuntklässler für die Klausuren lernen. Wir haben aber auch eine gute Neuigkeit -"knitter-switch", eine ortsansässige Firma, die sich auf Schaltertechnologie spezialisiert, sponsert uns! 
+
+Mit diesen Worten möchten wir diesen Blogpost abschließen und wünschen Allen, die ihn heute oder in den folgenden Tagen lesen, fröhliche Weihnachten!
+
 
 <p>Wir suchen noch immer Sponsoren. Falls Sie Interesse haben, würden wir uns freuen, <a href="mailto:{{ site.footer-links.email }}" target="_blank">wenn Sie uns einfach kontaktieren.</a></p>
 
@@ -50,4 +53,3 @@ Wir sind eines der 10 Teams, die beim CanSat-Wettbewerb angenommen wurden! Am Mo
   </div>
 </div>
 
-<p>Wir suchen immer noch Sponsoren. Falls Sie Interesse haben, <a href="mailto:{{ site.footer-links.email }}" target="_blank">kontaktieren Sie uns einfach.</a></p>
