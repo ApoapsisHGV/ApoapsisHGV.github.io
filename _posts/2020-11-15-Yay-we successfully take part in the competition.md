@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Juhu-Wir nehmen erfolgreich am Wettbewerb teil!
+title: Yay-we successfully take part in the competition!
 lang: EN
 ref: Annahme und Zeitplan
 categories: [cansat2020]
