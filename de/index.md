@@ -8,7 +8,7 @@ ref: index
 # Weihnachtsupdate 
 
 <figure class="center medium">
-  {%include self-linked.image.html path="/images/posts/2020-12-24-Designbericht.jpg" alt="Designbericht" %}
+  {%include self-linked-image.html path="/images/posts/2020-12-24-Designbericht.jpg" alt="Designbericht" %}
 </figure>
 
 
