@@ -5,14 +5,16 @@ lang: EN
 ref: index
 ---
 
-# Yay-we successfully take part in the competition!
+# Christmas update 
 
-<figure class="center medium">
-  {% include self-linked-image.html path="/images/posts/2020-11-15-Zeitplan.jpg" alt="Zeitplan" %}
-</figure>
 
-We are one of the 10 teams that were accepted in the CanSat competition! On Monday 09.11.20, we had our first online event of the competition, the Kick-Off-Meeting. In this meeting, the teams introduced themselves. We were also given further dates, tips for the current situation with the Corona virus and explanations about the schedule and the instruction manual. There was also the possibility to ask questions to the organizers. Afterwards we played a little game where each group provided two true and one false statement about their own team. The other participants then had to guess which statements were true. Our statements were "our team is an international team with 5 nationalities", "two of us have already participated in the competition last year" and "we were already thinking about our own secondary mission before the competition until it was announced that this year everyone should do the same secondary mission". And which is the wrong statement? -Of course, the first one, we are not that international ;) We have submitted the schedule and will now mainly do research work. We are looking forward to future challenges!
 
+Since we submitted the first design report for the CanSat competition on Monday 21.12.2020, we would like to give you a little update on our progress so far. We are at the end of our research phase and will soon order some components for testing. Unfortunately, we won't have much time for testing after the holidays. Due to Covid-19 the schools were closed and our exam period has been pushed back further. This means that the eleventh graders, as well as the ninth graders, will have to study for the exams directly after the holidays. But we also have good news - "knitter-switch", a local company specialising in switch technology, is sponsoring us! 
+
+With these words, we would like to conclude this blog post and wish everyone who is reading it these days a Merry Christmas!
+
+
+<p>We are still looking for sponsors. If you are interested, <a href="mailto:{{ site.footer-links.email }}" target="_blank">we would be happy if you contact us.</a></p>
 
 {% assign posts=site.posts | where:"lang", page.lang %}
 {% for post in posts %}
@@ -48,5 +50,3 @@ We are one of the 10 teams that were accepted in the CanSat competition! On Mond
     <p><a href="{{ site.baseurl }}/en/about/" class="read-more">read more</a></p>
   </div>
 </div>
-
-<p>We're still looking for sponsors, if you're interested, <a href="mailto:{{ site.footer-links.email }}" target="_blank">feel free to contact us.</a></p>
