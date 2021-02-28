@@ -4,7 +4,7 @@ title: Yay-we successfully take part in the competition!
 lang: EN
 ref: Annahme und Zeitplan
 categories: [cansat2020]
-
+teaserImage: /images/posts/2020-11-15-Zeitplan.jpg
 ---
 
 We are one of the 10 teams that were accepted in the CanSat competition! On Monday 09.11.20, we had our first online event of the competition, the Kick-Off-Meeting. In this meeting, the teams introduced themselves. We were also given further dates, tips for the current situation with the Corona virus and explanations about the schedule and the instruction manual. There was also the possibility to ask questions to the organizers. Afterwards we played a little game where each group provided two true and one false statement about their own team. The other participants then had to guess which statements were true. 
