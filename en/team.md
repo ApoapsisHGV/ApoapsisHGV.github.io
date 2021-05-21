@@ -24,21 +24,21 @@ ref: team
   <figure>
     <img src="{{ site.baseurl }}/images/2020-team-members/Jakob.jpg" />
   </figure>
-  <span>„My name is <strong>Jakob Schaarschmidt</strong>. I am mainly responsible for the electronics and creating the circuit diagramm. Last year I was already able to participate in the competition and I am looking forward to be part of it again this year.“</span>
+  <span>„My name is <strong>Jakob Schaarschmidt</strong>. I am mainly responsible for the electronics and creating the circuit diagram. Last year I was already able to participate in the competition and I am looking forward to being part of it again this year.“</span>
 </section>
 
 <section class="team-member-presentation side-figure" id="chiara">
   <figure>
     <img src="{{ site.baseurl }}/images/2020-team-members/chiara.jpg" />
   </figure>
-  <span>„My name is <strong>Chiara Nadenau</strong>. aI am responsible for programming the camera and ensuring the simoultanesly storage of all the camera footage and the measurement data on two  memory devices. Designing the 3D-model and maintaining the website as well as the social media accounts are some of my other tasks. I became aware of the project through a presentation at the <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> at our school.“</span>
+  <span>„My name is <strong>Chiara Nadenau</strong>. aI am responsible for programming the camera and ensuring the simoultaneous storage of all the camera footage and the measurement data on two  memory devices. Designing the 3D-model and maintaining the website as well as the social media accounts are some of my other tasks. I became aware of the project through a presentation at the <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> at our school.“</span>
 </section>
 
 <section class="team-member-presentation side-figure" id="manuel">
   <figure>
     <img src="{{ site.baseurl }}/images/2020-team-members/Manuel.jpg" />
   </figure>
-  <span>„I am <strong>Manuel Domke</strong> and one of the programmers of our team. As a hobby programmer I am responsible for the software that captures the measuremnet data.“  </span>
+  <span>„I am <strong>Manuel Domke</strong> and one of the programmers of our team. As a hobby programmer I am responsible for the software that captures the measurement data.“  </span>
 </section>
 
 <!---

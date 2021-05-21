@@ -31,10 +31,10 @@ ref: team
   <figure>
     <img src="{{ site.baseurl }}/images/2020-team-members/chiara.jpg" />
   </figure>
-  <span>„Mein Name ist <strong>Chiara Nadenau</strong>. Ich bin für das Programmieren der Kamera und dem Speichern aller Bild- und Messdaten zuständig. Auch das Design des 3D-Modells  und das Instandhalten unserer Webseite und Social-Media Accounts übernehme ich. Auf das Projekt wurde ich durch einen Vortrag im Rahmen der <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> an unserer Schule aufmerksam.“</span>
+  <span>„Mein Name ist <strong>Chiara Nadenau</strong>. Ich bin für das Programmieren der Kamera und das Speichern aller Bild- und Messdaten zuständig. Auch das Design des 3D-Modells  und das Instandhalten unserer Webseite und unserer Social-Media Accounts übernehme ich. Auf das Projekt wurde ich durch einen Vortrag im Rahmen der <a href="http://www.humboldt-gym.de/node/135" target="_blank" >Humboldt Academy for Science and Engineering (HASE) </a> an unserer Schule aufmerksam.“</span>
 </section>
 
-<!---
+
 <section class="team-member-presentation side-figure" id="manuel">
   <figure>
     <img src="{{ site.baseurl }}/images/2020-team-members/Manuel.jpg" />
@@ -42,6 +42,7 @@ ref: team
   <span>„Ich bin <strong>Manuel Domke</strong> und einer der Programmierer unseres Teams. Als Hobby-Programmierer bin ich zuständig für die Software des CanSats.“</span>
 </section>
 
+<!--
 <section class="team-member-presentation side-figure" id="daniel">
   <figure>
     <img src="{{ site.baseurl }}/images/2020-team-members/Daniel.jpg" />
