@@ -205,6 +205,11 @@ figure {
     margin: 1em auto;
   }
 
+  &.video {
+    display: block;
+    margin: 0 auto;
+  }
+
   figcaption {
     text-align: center;
     font-style: italic;
