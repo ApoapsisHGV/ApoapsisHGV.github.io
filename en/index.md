@@ -7,7 +7,7 @@ ref: index
 
 # CanSat shipped!
 
-<figure class="video medium">
+<figure class="video">
   <video src="/images/posts/2021-05-20-CanSat-Innen.mp4" alt="Der CanSat von innen!" controls></video>
   <figcaption>
     The CanSat from the inside!<br />
