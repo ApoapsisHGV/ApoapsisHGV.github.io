@@ -6,7 +6,6 @@ title: The 6th German CanSat Competition 2019 is over!
 ref: competitiondays2019
 ---
 
-# The 6th German CanSat Competition 2019 is over!
 
 <figure class="center medium">
   {% include self-linked-image.html path="/images/Siegerfoto.jpg" alt="We've got 3rd placed at German CanSat Competition!" %}
